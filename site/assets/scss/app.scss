@@ -1,0 +1,128 @@
+@import "navbar";
+@import "root";
+@import "reset";
+@import "links";
+@import "footer";
+
+.site-container{
+    margin: 0 300px;
+}
+.main-content{
+    margin-top: 50px;
+    font-family: var(--title-font-family);
+}
+.main-content .title{
+    font-size: var(--normal-title);
+    padding-bottom: 10px;
+    width: 20%;
+    border-bottom: var(--border-bottom);
+}
+.main-content .body{
+    padding-top: 15px;
+    margin-bottom: 25px;
+}
+.main-logo{
+    margin: 50px 0;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    align-items: center;
+}
+a{
+    color: rgb(0, 110, 253);
+}
+.relese-content{
+    margin: 50px 0;
+}
+.relese-content .title{
+    font-family: var(--title-font-family);
+}
+.relese-content .body{
+    font-family: var(--jk-site-font);
+}
+.relese-content .body .topic{
+    font-weight: bold;
+    padding: 10px;
+    border-bottom: var(--border-bottom);
+    width: 40%;
+}
+.relese-content .body .features{
+    margin: 15px 40px;
+}
+.get-started-btn{
+    width: 20%;
+    margin-top: 20px;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: var(--jk-purple);
+    color: var(--jk-mfont-color);
+    font-family: var(--jk-site-font);
+    font-size: var(--button-text);
+    transition: var(--transition-speed);
+}
+.get-started-btn:hover{
+    box-shadow: 10px 10px 5px #aaaaaa;
+    cursor: pointer;
+    background-color: var(--hover-color);
+}
+.get-title{
+    margin: 50px 0;
+    text-align: center;
+    font-size: calc(var(--button-text) * 2);
+    font-family: var(--jk-site-font);    
+}
+.get-body{
+    font-family: var(--title-font-family);
+    font-size: var(--button-text);
+    margin-bottom: 45px;
+}
+.get-list{
+    margin: 50px 20px;
+}
+.file-view{
+    background-color: var(--file-backcolor);
+    color: var(--file-font);
+    padding: 0 10px;
+    border-radius: 5px;
+}
+.code-back{
+    background-color: var(--code-backcolor);
+    padding: 20px 50px;
+    font-family: var(--title-font-family);
+    border-radius: 5px;
+}
+.blue-text{
+    color: var(--code-blue);
+}
+.lblue-text{
+    color: var(--code-lightblue);
+}
+.red-text{
+    color: var(--code-red);
+}
+.code-gap{
+    padding-left: 50px;
+}
+.normal-code{
+    color: var(--normal-code);
+}
+.comment-code{
+    color: var(--comment-code);
+}
+.main-title{
+    font-size: 30px;
+    margin: 20px 0;
+}
+.normal-table{
+    margin: 20px 0;
+    font-size: 20px;
+}
+.normal-table th{
+    height: 30px;
+    width: 50%;
+    border-bottom: 1px solid black;    
+}
+.all-examples-btn{
+    @extend .get-started-btn
+}
