@@ -24,7 +24,13 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 # Releases
 
-## Version - v1.0.0-beta1 - 04 June 2023 Latest
+## Version - v1.0.0-beta2 - 11 August 2023 Latest
+
+- adding CDN link
+- Improve Base Interfaces
+- Still non-production ready
+
+## Version - v1.0.0-beta1 - 04 June 2023 
 
 - adding CDN link
 - Improve Base Interfaces
