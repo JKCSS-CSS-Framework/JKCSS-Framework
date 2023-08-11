@@ -65,4 +65,4 @@ Copyright 2021–2023 [JehanKandy](https://github.com/JehanKandy). The JKCSS Pro
  
 <br>
  
-Please use this link to my OLD Account [JehanKandy](https://github.com/JKCSS/JKCSS-Framework/commits?author=JehanKandy)
+Please use this link to my OLD Account [JehanKandy](https://github.com/JehanKandy)
