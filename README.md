@@ -62,4 +62,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 Copyright 2021–2023 [JehanKandy](https://github.com/JehanKandy). The JKCSS Project released under the [MIT License](https://github.com/JKCSS/JKCSS-Framework/blob/main/LICENSE)
 
-Please use this link to my OLD Account [JehanKandy]()
+ 
+<br>
+ 
+Please use this link to my OLD Account [JehanKandy](https://github.com/JKCSS/JKCSS-Framework/commits?author=JehanKandy)
