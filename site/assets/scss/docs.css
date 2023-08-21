@@ -1,3 +1,7 @@
 .all-menu {
-  background-color: red;
+  background-color: rgb(219, 219, 219);
+}
+
+.all-menu a {
+  display: block;
 }
