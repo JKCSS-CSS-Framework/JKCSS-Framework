@@ -30,6 +30,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - Improve Base Interfaces
 - Still non-production ready
 - getting ready for adding CSS styles with CDN
+- start adding css to html components
 
 ## Version - v1.0.0-beta2 - 11 August 2023 
 
