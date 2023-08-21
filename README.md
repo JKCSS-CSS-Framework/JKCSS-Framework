@@ -46,7 +46,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - Still non-production ready
 
 
-## Version - v0.2.0 Latest(TEST Releases) - 04 June 2023
+## Version - v0.2.0 (TEST Releases) - 04 June 2023
 
 - adding domain name for testing purposes 
 - Improve Base Interfaces
