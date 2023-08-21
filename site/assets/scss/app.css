@@ -112,6 +112,10 @@
   margin: var(--title-margin);
 }
 
+.site-links ul {
+  margin: 0 20px;
+}
+
 .site-container {
   margin: 0 300px;
 }
