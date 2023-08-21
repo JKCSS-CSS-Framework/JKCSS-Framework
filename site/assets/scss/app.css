@@ -43,6 +43,7 @@
   --code-red: rgb(151, 26, 26);
   --normal-code: black;
   --comment-code: grey;
+  --title-margin: 20px;
 }
 
 * {
@@ -108,6 +109,7 @@
 
 .site-docs h2 {
   font-size: var(--title-font);
+  margin: var(--title-margin);
 }
 
 .site-container {
