@@ -12,7 +12,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - Current Release : [v1.0.0-beta2](https://github.com/JKCSS/JKCSS-Framework/releases/tag/v1.0.0-beta1)
 
-- The JKCSS CSS - Frameworks Release -v0.2.0 Latest(TEST Releases) 04 June 2023 is Releases with domain name for testing purposes 
+- The JKCSS CSS - Frameworks Release -v1.0.0 Latest( Releases) 04 June 2023 is Releases with domain name 
 <br>
 
 - Domain name For Framework [JKCSS - CSS Frameworks](https://jkcss.github.io/JKCSS-Framework/site/content/docs/index.html)
