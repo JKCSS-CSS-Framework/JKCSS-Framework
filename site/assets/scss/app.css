@@ -101,6 +101,10 @@
   color: var(--jk-mfont-color);
 }
 
+.all-menu {
+  color: red;
+}
+
 .site-container {
   margin: 0 300px;
 }
