@@ -106,6 +106,10 @@
   font-family: var(--jk-site-font);
 }
 
+.site-docs h2 {
+  font-size: var(--title-font);
+}
+
 .site-container {
   margin: 0 300px;
 }
