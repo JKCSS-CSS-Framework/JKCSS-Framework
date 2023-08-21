@@ -104,6 +104,8 @@
 .all-menu {
   background-color: rgb(243, 243, 243);
   margin: 0;
+  width: 30%;
+  float: left;
 }
 
 .all-menu a {
