@@ -5,7 +5,7 @@
 
 .jk-btn {
   width: 250px;
-  background-color: var(--jk-blue);
+  padding: 20px 30px;
 }
 
 .main-content {
