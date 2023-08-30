@@ -1,3 +1,7 @@
 :root {
   --jk-blue: blue;
 }
+
+.jk-btn {
+  width: 250px;
+}

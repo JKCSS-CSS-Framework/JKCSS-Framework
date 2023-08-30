@@ -3,6 +3,10 @@
   --jk-blue: blue;
 }
 
+.jk-btn {
+  width: 250px;
+}
+
 .main-content {
   margin: 0 250px;
   color: red;
