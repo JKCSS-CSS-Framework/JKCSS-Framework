@@ -1,6 +1,6 @@
 @import "https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/blob/master/jkcss/dosc/buttons/button.min.css";
 :root {
-  --jk-blue: blue;
+  --jk-blue: rgb(32, 63, 201);
   --jk-blue-hover: blue;
   --text-color: white;
 }
