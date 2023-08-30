@@ -8,4 +8,6 @@
   padding: 15px 25px;
   background-color: var(--jk-blue);
   color: var(--text-color);
+  border: none;
+  transition: 0.4s;
 }
