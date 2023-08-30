@@ -10,4 +10,5 @@
   color: var(--text-color);
   border: none;
   transition: 0.4s;
+  border-radius: 2px;
 }
