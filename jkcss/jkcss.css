@@ -5,6 +5,7 @@
 
 .jk-btn {
   width: 250px;
+  background-color: var(--jk-blue);
 }
 
 .main-content {

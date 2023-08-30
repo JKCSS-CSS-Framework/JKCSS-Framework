@@ -1,1 +1,1 @@
-@import"https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/blob/master/jkcss/dosc/buttons/button.min.css";:root{--jk-blue: blue}.jk-btn{width:250px}.main-content{margin:0 250px;color:red}
+@import"https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/blob/master/jkcss/dosc/buttons/button.min.css";:root{--jk-blue: blue}.jk-btn{width:250px;background-color:var(--jk-blue)}.main-content{margin:0 250px;color:red}
