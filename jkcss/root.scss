@@ -1,8 +1,11 @@
 :root{
     --jk-blue: blue;
     --jk-blue-hover: blue;
+    --text-color: white;
 }
 
 .jk-btn{
     padding: 15px 25px;
+    background-color: var(--jk-blue);
+    color: var(--text-color);
 }
