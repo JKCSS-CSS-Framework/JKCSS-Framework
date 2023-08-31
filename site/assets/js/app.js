@@ -13,7 +13,7 @@ fetch('footerbar.html')
 });
 
 const footer_docs = document.querySelector('.docs-footer')
-fetch('../../site/content/docs/footerbar_docs.html')
+fetch('../footerbar_docs.html')
 .then(res=>res.text())
 .then(data=>{
     footer_docs.innerHTML=data
