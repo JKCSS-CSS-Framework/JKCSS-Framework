@@ -33,4 +33,11 @@ fetch('docs_nav.html')
     exmaple_nav.innerHTML=data
 });
 
+const exmaple_nav = document.querySelector('.example-nav')
+fetch('docs_nav.html')
+.then(res=>res.text())
+.then(data=>{
+    exmaple_nav.innerHTML=data
+});
+
 
