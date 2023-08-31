@@ -1,4 +1,4 @@
-@import url(dosc/buttons/button.min.css);
+@import url(dosc/buttons/button.scss);
 :root {
   --jk-blue: #0d6efd;
   --jk-blue-hover: #025ce4;
