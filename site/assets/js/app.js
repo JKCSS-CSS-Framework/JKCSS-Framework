@@ -12,11 +12,11 @@ fetch('footerbar.html')
     footer.innerHTML=data
 });
 
-const footer_docs = document.querySelector('.footerbar')
-fetch('footerbar.html')
+const footer_docs = document.querySelector('.docs-footer')
+fetch('../../site/content/docs/footerbar.html')
 .then(res=>res.text())
 .then(data=>{
-    footer.innerHTML=data
+    footer_docs.innerHTML=data
 });
 
 const othernav = document.querySelector('.other-nav')
