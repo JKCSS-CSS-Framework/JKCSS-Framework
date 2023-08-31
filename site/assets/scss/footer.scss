@@ -41,3 +41,7 @@
     color: var(--jk-mfont-color);
     text-decoration: none;
 }
+
+.footerbar-docs{
+    @extend .footerbar;
+}
