@@ -34,10 +34,10 @@ fetch('docs_nav.html')
 });
 
 const button_nav = document.querySelector('.button-nav')
-fetch('docs_nav.html')
+fetch('button_nav.html')
 .then(res=>res.text())
 .then(data=>{
-    exmaple_nav.innerHTML=data
+    button_nav.innerHTML=data
 });
 
 
