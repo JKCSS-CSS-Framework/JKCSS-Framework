@@ -17,7 +17,11 @@
 }
 
 .jk-blue {
-  background-color: var(--jk-ssssss);
+  background-color: var(--jk-blue);
+}
+
+.jk-blue:hover {
+  background-color: var(--jk-blue-hover);
 }
 
 .main-content {
