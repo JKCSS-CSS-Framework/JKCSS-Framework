@@ -1,4 +1,3 @@
-@import url(dosc/buttons/button.scss);
 :root {
   --jk-blue: #0d6efd;
   --jk-blue-hover: #025ce4;
@@ -15,6 +14,10 @@
 .jk-btn:hover {
   cursor: pointer;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.jk-blue {
+  background-color: var(--jk-blue);
 }
 
 .main-content {
