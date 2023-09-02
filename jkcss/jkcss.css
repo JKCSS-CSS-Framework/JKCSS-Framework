@@ -41,6 +41,10 @@
   background-color: var(--jk-green);
 }
 
+.jk-green:hover {
+  background-color: var(--jk-green-hover);
+}
+
 .main-content {
   margin: 0 250px;
   color: red;
