@@ -5,6 +5,7 @@
 @import "footer";
 @import "docs";
 
+
 .site-container{
     padding: 0 300px;
     font-family: var(--title-font-family);
@@ -126,13 +127,7 @@ a{
     border-bottom: 1px solid black;    
 }
 .all-examples-btn{
-    @extend .get-started-btn
+    @extend .get-started-btn;
 }
 
-$layout-breakpoint-small: 960px;
 
-@media (min-width: $layout-breakpoint-small) {
-    .site-container{
-        background-color: red;
-    }
-}
