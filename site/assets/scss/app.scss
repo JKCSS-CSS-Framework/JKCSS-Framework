@@ -6,7 +6,7 @@
 @import "docs";
 
 .site-container{
-    margin: 0 300px;
+    padding: 0 300px;
     font-family: var(--title-font-family);
 }
 .main-content{
@@ -129,9 +129,10 @@ a{
     @extend .get-started-btn
 }
 
+$layout-breakpoint-small: 960px;
 
-@media only screen and (max-width: 600px) {
+@media (min-width: $layout-breakpoint-small) {
     .site-container{
-       background-color: green;
+        background-color: red;
     }
 }
