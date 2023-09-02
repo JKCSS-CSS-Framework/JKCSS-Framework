@@ -5,3 +5,7 @@
 .jk-blue:hover {
   background-color: var(--jk-blue-hover);
 }
+
+.jk-gray {
+  background-color: var(--jk-gray);
+}
