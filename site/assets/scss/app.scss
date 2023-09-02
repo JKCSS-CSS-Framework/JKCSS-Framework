@@ -128,3 +128,10 @@ a{
 .all-examples-btn{
     @extend .get-started-btn
 }
+
+
+@media only screen and (max-width: 600px) {
+    .site-container{
+        margin: 0 30px;
+    }
+}
