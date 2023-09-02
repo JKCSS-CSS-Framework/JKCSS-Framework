@@ -17,3 +17,7 @@
 .jk-green {
   background-color: var(--jk-green);
 }
+
+.jk-green:hover {
+  background-color: var(--jk-green-hover);
+}
