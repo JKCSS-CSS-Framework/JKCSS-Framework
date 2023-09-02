@@ -26,6 +26,10 @@
   background-color: var(--jk-blue-hover);
 }
 
+.jk-gray {
+  background-color: var(--jk-gray);
+}
+
 .main-content {
   margin: 0 250px;
   color: red;
