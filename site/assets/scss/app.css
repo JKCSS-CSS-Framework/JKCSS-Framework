@@ -277,6 +277,11 @@ a {
   display: none;
 }
 
+.nav-hr {
+  margin: 10px 0;
+  display: none;
+}
+
 @media only screen and (max-width: 600px) {
   .site-container {
     padding: 0 20%;
@@ -289,8 +294,15 @@ a {
   .footer-hr {
     display: block;
   }
+  .nav-hr {
+    margin: 10px 0;
+    display: block;
+  }
+  .navbar, .other-nav, .get-nav, .example-nav, .button-nav {
+    height: 40%;
+  }
   .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo {
-    font-size: 10px;
+    font-size: 10%;
   }
 }
 @media only screen and (max-width: 768px) {
