@@ -44,6 +44,7 @@
   --normal-code: black;
   --comment-code: grey;
   --title-margin: 20px;
+  --screen-font-992: 10px;
 }
 
 * {
@@ -314,6 +315,9 @@ a {
   }
   .footer-hr {
     display: block;
+  }
+  .nav-bar .logo {
+    font-size: 10px;
   }
 }
 @media only screen and (max-width: 1200px) {
