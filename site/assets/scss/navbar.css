@@ -19,3 +19,9 @@
 .other-nav, .button-nav, .example-nav, .get-nav {
   height: var(--othernav-height);
 }
+
+@media only screen and (max-width: 992px) {
+  .nav-bar .logo {
+    font-size: var(--screen-font-992);
+  }
+}
