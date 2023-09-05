@@ -35,7 +35,7 @@ fetch('docs_nav.html')
 });
 
 const button_nav = document.querySelector('.button-nav')
-fetch('../../site/content/docs/button_nav.html')
+fetch('../../../site/content/docs/button_nav.html')
 .then(res=>res.text())
 .then(data=>{
     button_nav.innerHTML=data
