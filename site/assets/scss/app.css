@@ -289,6 +289,9 @@ a {
   .footer-hr {
     display: block;
   }
+  .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo {
+    font-size: 10px;
+  }
 }
 @media only screen and (max-width: 768px) {
   .site-container {
