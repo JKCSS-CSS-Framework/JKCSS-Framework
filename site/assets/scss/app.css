@@ -277,6 +277,9 @@ a {
   .site-container {
     padding: 0 20%;
     width: auto;
-    display: block;
+  }
+  .footer-grid {
+    display: flex;
+    flex-direction: column;
   }
 }
