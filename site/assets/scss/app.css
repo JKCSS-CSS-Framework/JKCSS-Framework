@@ -273,6 +273,10 @@ a {
   flex-direction: row;
 }
 
+.footer-hr {
+  display: none;
+}
+
 @media only screen and (max-width: 600px) {
   .site-container {
     padding: 0 20%;
@@ -281,5 +285,34 @@ a {
   .footer-grid {
     display: flex;
     flex-direction: column;
+  }
+  .footer-hr {
+    display: block;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .site-container {
+    padding: 0 20%;
+    width: auto;
+  }
+  .footer-grid {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-hr {
+    display: block;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .site-container {
+    padding: 0 20%;
+    width: auto;
+  }
+  .footer-grid {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-hr {
+    display: block;
   }
 }
