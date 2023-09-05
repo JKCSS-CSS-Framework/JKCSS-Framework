@@ -302,6 +302,9 @@ a {
   .footer-hr {
     display: block;
   }
+  .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo {
+    font-size: 10px;
+  }
 }
 @media only screen and (max-width: 992px) {
   .site-container {
@@ -315,8 +318,8 @@ a {
   .footer-hr {
     display: block;
   }
-  .nav-bar .logo {
-    font-size: 10px;
+  .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo {
+    font-size: 40px;
   }
 }
 @media only screen and (max-width: 1200px) {

@@ -166,6 +166,9 @@ a{
     .footer-hr{
         display: block;
     }
+    .navbar .logo{
+        font-size: 10px;
+    }
 }
 
 @media only screen and (max-width: 992px) {
@@ -180,8 +183,8 @@ a{
     .footer-hr{
         display: block;
     }
-    .nav-bar .logo{
-        font-size: 10px;
+    .navbar .logo{
+        font-size: 40px;
     }
 }
 
