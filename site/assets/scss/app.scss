@@ -184,6 +184,10 @@ a{
     .navbar .logo{
         font-size: 10px;
     }
+    .get-started-btn{
+        padding: 20px 30px;
+        width: 40%;
+    }
 }
 
 @media only screen and (max-width: 992px) {
@@ -200,6 +204,10 @@ a{
     }
     .navbar .logo{
         font-size: 40px;
+    }
+    .get-started-btn{
+        padding: 10px 20px;
+        width: 20%;
     }
 }
 
