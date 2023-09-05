@@ -304,6 +304,12 @@ a {
   .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo {
     font-size: 10%;
   }
+  .get-started-btn, .all-examples-btn {
+    padding: 20px 10000px;
+    width: 40px;
+    color: black;
+    font-size: 20px;
+  }
 }
 @media only screen and (max-width: 768px) {
   .site-container {
@@ -322,7 +328,7 @@ a {
   }
   .get-started-btn, .all-examples-btn {
     padding: 20px 30px;
-    width: 40%;
+    width: 100%;
   }
 }
 @media only screen and (max-width: 992px) {

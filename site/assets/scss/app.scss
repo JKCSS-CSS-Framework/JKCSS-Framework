@@ -167,6 +167,12 @@ a{
     .navbar .logo{
         font-size: 10%;
     }
+    .get-started-btn{
+        padding: 20px 10000px;
+        width: 40px;
+        color: black;
+        font-size: 20px;
+    }
 }
 
 @media only screen and (max-width: 768px) {
@@ -186,7 +192,7 @@ a{
     }
     .get-started-btn{
         padding: 20px 30px;
-        width: 40%;
+        width: 100%;
     }
 }
 
