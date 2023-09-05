@@ -9,7 +9,10 @@
 .site-container{
     padding: 0 300px;
     font-family: var(--title-font-family);
+    background-color: none;
 }
+
+
 .main-content{
     margin-top: 50px;
     font-family: var(--title-font-family);
@@ -132,7 +135,8 @@ a{
 
 
 @media only screen and (max-width: 600px) {
-    .site-container {
-      background-color: red;
+    .site-container{
+        padding: 0 300px;
+        background-color: red;
     }
 }
