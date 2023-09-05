@@ -268,8 +268,15 @@ a {
   border-bottom: 1px solid black;
 }
 
+.footer-grid {
+  display: flex;
+  flex-direction: row;
+}
+
 @media only screen and (max-width: 600px) {
   .site-container {
     padding: 0 20%;
+    width: auto;
+    display: block;
   }
 }
