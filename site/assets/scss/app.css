@@ -122,7 +122,7 @@
 }
 
 .site-container {
-  padding: 0 300px;
+  padding: 0 15%;
   font-family: var(--title-font-family);
 }
 
@@ -304,6 +304,19 @@ a {
   }
 }
 @media only screen and (max-width: 992px) {
+  .site-container {
+    padding: 0 20%;
+    width: auto;
+  }
+  .footer-grid {
+    display: flex;
+    flex-direction: column;
+  }
+  .footer-hr {
+    display: block;
+  }
+}
+@media only screen and (max-width: 1200px) {
   .site-container {
     padding: 0 20%;
     width: auto;
