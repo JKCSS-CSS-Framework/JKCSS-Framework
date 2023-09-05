@@ -271,7 +271,6 @@ a {
 
 @media only screen and (max-width: 600px) {
   .site-container {
-    padding: 0 300px;
-    background-color: red;
+    padding: 0 20%;
   }
 }
