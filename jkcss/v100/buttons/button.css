@@ -21,3 +21,11 @@
 .jk-green:hover {
   background-color: var(--jk-green-hover);
 }
+
+.jk-red {
+  background-color: var(--jk-red);
+}
+
+.jk-red:hover {
+  background-color: var(--jk-red-hover);
+}
