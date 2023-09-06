@@ -37,3 +37,11 @@
 .jk-yellow:hover {
   background-color: var(--jk-yellow-hover);
 }
+
+.jk-info {
+  background-color: var(--jk-lightblue);
+}
+
+.jk-info:hover {
+  background-color: var(--jk-lightblue-hover);
+}
