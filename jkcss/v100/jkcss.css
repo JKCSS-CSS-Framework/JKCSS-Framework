@@ -9,6 +9,7 @@
   --jk-green-hover: #147045;
   --jk-red: #ca2d3dee;
   --jk-red-hover: #b32432ee;
+  --jk-yellow: #FF8800;
   --jk-purple: #A020F0;
   --title-font-family: "Kanit", sans-serif;
   --jk-site-font: "Roboto", sans-serif;
@@ -57,6 +58,14 @@
 
 .jk-red:hover {
   background-color: var(--jk-red-hover);
+}
+
+.jk-yellow {
+  background-color: var(--jk-yellow);
+}
+
+.jk-yellow:hover {
+  background-color: var(--jk-yellow-hover);
 }
 
 .site-container {
