@@ -1,3 +1,7 @@
+.no-border, .jk-blue {
+  border: none;
+}
+
 .jk-blue {
   background-color: var(--jk-blue);
 }
@@ -44,4 +48,13 @@
 
 .jk-info:hover {
   background-color: var(--jk-lightblue-hover);
+}
+
+.jk-blue-outline {
+  background: none;
+  border: 1px solid blue;
+}
+
+.jk-blue-outline:hover {
+  background: var(--jk-blue);
 }
