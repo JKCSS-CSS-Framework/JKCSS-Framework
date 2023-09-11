@@ -1,5 +1,6 @@
 .no-border, .jk-info:hover, .jk-info, .jk-yellow:hover, .jk-yellow, .jk-red:hover, .jk-red, .jk-green:hover, .jk-green, .jk-gray:hover, .jk-gray, .jk-blue:hover, .jk-blue {
   border: none;
+  color: var(--text-color);
 }
 
 .jk-blue {
