@@ -90,6 +90,7 @@
 
 .jk-blue-outline:hover {
   background: var(--jk-blue);
+  color: var(--text-color);
 }
 
 .site-container {
