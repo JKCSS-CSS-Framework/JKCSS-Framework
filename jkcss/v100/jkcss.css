@@ -93,6 +93,17 @@
   color: var(--text-color);
 }
 
+.jk-gray-outline {
+  background: none;
+  border: 1px solid var(--jk-blue);
+  color: var(--jk-blue);
+}
+
+.jk-gray-outline:hover {
+  background: var(--jk-blue);
+  color: var(--text-color);
+}
+
 .site-container {
   padding: 0 150px;
 }
