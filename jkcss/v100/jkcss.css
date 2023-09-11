@@ -104,6 +104,17 @@
   color: var(--text-color);
 }
 
+.jk-green-outline {
+  background: none;
+  border: 1px solid var(--jk-green);
+  color: var(--jk-green);
+}
+
+.jk-green-outline:hover {
+  background: var(--jk-green);
+  color: var(--text-color);
+}
+
 .site-container {
   padding: 0 150px;
 }
