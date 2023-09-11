@@ -126,6 +126,28 @@
   color: var(--text-color);
 }
 
+.jk-yellow-outline {
+  background: none;
+  border: 1px solid var(--jk-yellow);
+  color: var(--jk-yellow);
+}
+
+.jk-yellow-outline:hover {
+  background: var(--jk-yellow);
+  color: var(--text-color);
+}
+
+.jk-info-outline {
+  background: none;
+  border: 1px solid var(--jk-info);
+  color: var(--jk-info);
+}
+
+.jk-info-outline:hover {
+  background: var(--jk-info);
+  color: var(--text-color);
+}
+
 .site-container {
   padding: 0 150px;
 }
