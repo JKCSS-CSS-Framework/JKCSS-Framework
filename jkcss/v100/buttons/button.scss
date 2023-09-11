@@ -53,8 +53,9 @@
 .jk-blue-outline{
     background: none;
     border: 1px solid var(--jk-blue);
-    color: blue;
+    color: var(--jk-blue);
 }
 .jk-blue-outline:hover{
     background: var(--jk-blue);
+    color: var(--text-color);
 }
