@@ -83,3 +83,14 @@
   background: var(--jk-green);
   color: var(--text-color);
 }
+
+.jk-red-outline {
+  background: none;
+  border: 1px solid var(--jk-red);
+  color: var(--jk-red);
+}
+
+.jk-red-outline:hover {
+  background: var(--jk-red);
+  color: var(--text-color);
+}
