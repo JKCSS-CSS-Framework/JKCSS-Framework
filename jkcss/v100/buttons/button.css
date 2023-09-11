@@ -94,3 +94,14 @@
   background: var(--jk-red);
   color: var(--text-color);
 }
+
+.jk-yellow-outline {
+  background: none;
+  border: 1px solid var(--jk-yellow);
+  color: var(--jk-yellow);
+}
+
+.jk-yellow-outline:hover {
+  background: var(--jk-yellow);
+  color: var(--text-color);
+}
