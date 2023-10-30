@@ -42,7 +42,7 @@ fetch('../../../site/content/docs/button_nav.html')
 });
 
 const column_nav = document.querySelector('.column-nav')
-fetch('../../../site/content/docs/column_nav.html')
+fetch('../../../../site/content/docs/button_nav.html')
 .then(res=>res.text())
 .then(data=>{
     button_nav.innerHTML=data
