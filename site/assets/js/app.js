@@ -41,7 +41,7 @@ fetch('../../../site/content/docs/button_nav.html')
     button_nav.innerHTML=data
 });
 
-const column_nav = document.querySelector('.button-nav')
+const column_nav = document.querySelector('.column-nav')
 fetch('../../../site/content/docs/button_nav.html')
 .then(res=>res.text())
 .then(data=>{
