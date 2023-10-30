@@ -121,6 +121,11 @@
   padding: 10px 0;
 }
 
+.site-docs h3 {
+  font-size: var(--title-font);
+  margin: var(--title-margin);
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
