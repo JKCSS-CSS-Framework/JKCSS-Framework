@@ -26,9 +26,8 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 ## Version - v1.0.1-alpha1 - 31 October 2023 Latest
 
-- adding CDN link
 - Improve Base Interfaces
-- Still non-production ready
+- non-production ready
 - getting ready for adding CSS styles with CDN
 - start adding css to html components
 
