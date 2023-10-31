@@ -45,6 +45,6 @@ const column_nav = document.querySelector('.column-nav')
 fetch('../../../../site/content/docs/button_nav.html')
 .then(res=>res.text())
 .then(data=>{
-    button_nav.innerHTML=data
+    column_nav.innerHTML=data
 });
 
