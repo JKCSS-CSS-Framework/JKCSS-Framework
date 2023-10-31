@@ -16,6 +16,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - Domain name For Framework [JKCSS - CSS Frameworks](https://jkcss.github.io/JKCSS-Framework/site/content/docs/index.html)
 
+- Version 1.0.1-alpha1 - Developing layouts for css (Testing) - grid, rows, columns
 
 # Projects
 
