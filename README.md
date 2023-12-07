@@ -24,6 +24,17 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 # Releases
 
+
+## Version - v1.0.1-alpha1 - 31 October 2023 Latest
+
+- adding NPM pacakege for framework (1st version)
+- npm link: 
+- Improve Base Interfaces
+- non-production ready
+- getting ready for adding CSS styles with CDN
+- start adding css to html components
+- start adding css to html layouts (still Testing)
+
 ## Version - v1.0.1-alpha1 - 31 October 2023 Latest
 
 - Improve Base Interfaces
