@@ -3,10 +3,12 @@
 .no-border{
     border: none;
     color: var(--text-color);
+
 }
 .jk-blue{
     background-color: var(--jk-blue);
     @extend .no-border;
+    @extend .jk-btn;
 }
 .jk-blue:hover{
     background-color: var(--jk-blue-hover);
