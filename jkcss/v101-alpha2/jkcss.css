@@ -29,52 +29,52 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.no-border, .jk-info:hover, .jk-info, .jk-yellow:hover, .jk-yellow, .jk-red:hover, .jk-red, .jk-green:hover, .jk-green, .jk-gray:hover, .jk-gray, .jk-blue:hover, .jk-blue {
+.no-border, .jk-info:hover, .jkbtn-info, .jkbtn-yellow:hover, .jkbtn-yellow, .jkbtn-red:hover, .jkbtn-red, .jkbtn-green:hover, .jkbtn-green, .jkbtn-gray:hover, .jkbtn-gray, .jkbtn-blue:hover, .jkbtn-blue {
   border: none;
   color: var(--text-color);
 }
 
-.jk-blue {
+.jkbtn-blue {
   background-color: var(--jk-blue);
 }
 
-.jk-blue:hover {
+.jkbtn-blue:hover {
   background-color: var(--jk-blue-hover);
 }
 
-.jk-gray {
+.jkbtn-gray {
   background-color: var(--jk-gray);
 }
 
-.jk-gray:hover {
+.jkbtn-gray:hover {
   background-color: var(--jk-gray-hover);
 }
 
-.jk-green {
+.jkbtn-green {
   background-color: var(--jk-green);
 }
 
-.jk-green:hover {
+.jkbtn-green:hover {
   background-color: var(--jk-green-hover);
 }
 
-.jk-red {
+.jkbtn-red {
   background-color: var(--jk-red);
 }
 
-.jk-red:hover {
+.jkbtn-red:hover {
   background-color: var(--jk-red-hover);
 }
 
-.jk-yellow {
+.jkbtn-yellow {
   background-color: var(--jk-yellow);
 }
 
-.jk-yellow:hover {
+.jkbtn-yellow:hover {
   background-color: var(--jk-yellow-hover);
 }
 
-.jk-info {
+.jkbtn-info {
   background-color: var(--jk-lightblue);
 }
 
@@ -82,68 +82,68 @@
   background-color: var(--jk-lightblue-hover);
 }
 
-.jk-blue-outline {
+.jkbtn-blue-outline {
   background: none;
   border: 1px solid var(--jk-blue);
   color: var(--jk-blue);
 }
 
-.jk-blue-outline:hover {
+.jkbtn-blue-outline:hover {
   background: var(--jk-blue);
   color: var(--text-color);
 }
 
-.jk-gray-outline {
+.jkbtn-gray-outline {
   background: none;
   border: 1px solid var(--jk-gray);
   color: var(--jk-gray);
 }
 
-.jk-gray-outline:hover {
+.jkbtn-gray-outline:hover {
   background: var(--jk-gray);
   color: var(--text-color);
 }
 
-.jk-green-outline {
+.jkbtn-green-outline {
   background: none;
   border: 1px solid var(--jk-green);
   color: var(--jk-green);
 }
 
-.jk-green-outline:hover {
+.jkbtn-green-outline:hover {
   background: var(--jk-green);
   color: var(--text-color);
 }
 
-.jk-red-outline {
+.jkbtn-red-outline {
   background: none;
   border: 1px solid var(--jk-red);
   color: var(--jk-red);
 }
 
-.jk-red-outline:hover {
+.jkbtn-red-outline:hover {
   background: var(--jk-red);
   color: var(--text-color);
 }
 
-.jk-yellow-outline {
+.jkbtn-yellow-outline {
   background: none;
   border: 1px solid var(--jk-yellow);
   color: var(--jk-yellow);
 }
 
-.jk-yellow-outline:hover {
+.jkbtn-yellow-outline:hover {
   background: var(--jk-yellow);
   color: var(--text-color);
 }
 
-.jk-info-outline {
+.jkbtn-info-outline {
   background: none;
   border: 1px solid var(--jk-lightblue);
   color: var(--jk-lightblue);
 }
 
-.jk-info-outline:hover {
+.jkbtn-info-outline:hover {
   background: var(--jk-lightblue);
   color: var(--text-color);
 }

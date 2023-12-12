@@ -4,47 +4,47 @@
     color: var(--text-color);
 
 }
-.jk-blue{
+.jkbtn-blue{
     background-color: var(--jk-blue);
     @extend .no-border;
 }
-.jk-blue:hover{
+.jkbtn-blue:hover{
     background-color: var(--jk-blue-hover);
     @extend .no-border;
 }
-.jk-gray{
+.jkbtn-gray{
     background-color: var(--jk-gray);
     @extend .no-border;
 }
-.jk-gray:hover{
+.jkbtn-gray:hover{
     background-color: var(--jk-gray-hover);
     @extend .no-border;
 }
-.jk-green{
+.jkbtn-green{
     background-color: var(--jk-green);
     @extend .no-border;
 }
-.jk-green:hover{
+.jkbtn-green:hover{
     background-color: var(--jk-green-hover);
     @extend .no-border;
 }
-.jk-red{
+.jkbtn-red{
     background-color: var(--jk-red);
     @extend .no-border;
 }
-.jk-red:hover{
+.jkbtn-red:hover{
     background-color: var(--jk-red-hover);
     @extend .no-border;
 }
-.jk-yellow{
+.jkbtn-yellow{
     background-color: var(--jk-yellow);
     @extend .no-border;
 }
-.jk-yellow:hover{
+.jkbtn-yellow:hover{
     background-color: var(--jk-yellow-hover);
     @extend .no-border;
 }
-.jk-info{
+.jkbtn-info{
     background-color: var(--jk-lightblue);
     @extend .no-border;
 }
@@ -52,62 +52,62 @@
     background-color: var(--jk-lightblue-hover);
     @extend .no-border;
 }
-.jk-blue-outline{
+.jkbtn-blue-outline{
     background: none;
     border: 1px solid var(--jk-blue);
     color: var(--jk-blue);
 }
-.jk-blue-outline:hover{
+.jkbtn-blue-outline:hover{
     background: var(--jk-blue);
     color: var(--text-color);
 }
 
-.jk-gray-outline{
+.jkbtn-gray-outline{
     background: none;
     border: 1px solid var(--jk-gray);
     color: var(--jk-gray);
 }
-.jk-gray-outline:hover{
+.jkbtn-gray-outline:hover{
     background: var(--jk-gray);
     color: var(--text-color);
 }
 
-.jk-green-outline{
+.jkbtn-green-outline{
     background: none;
     border: 1px solid var(--jk-green);
     color: var(--jk-green);
 }
-.jk-green-outline:hover{
+.jkbtn-green-outline:hover{
     background: var(--jk-green);
     color: var(--text-color);
 }
 
-.jk-red-outline{
+.jkbtn-red-outline{
     background: none;
     border: 1px solid var(--jk-red);
     color: var(--jk-red);
 }
-.jk-red-outline:hover{
+.jkbtn-red-outline:hover{
     background: var(--jk-red);
     color: var(--text-color);
 }
 
-.jk-yellow-outline{
+.jkbtn-yellow-outline{
     background: none;
     border: 1px solid var(--jk-yellow);
     color: var(--jk-yellow);
 }
-.jk-yellow-outline:hover{
+.jkbtn-yellow-outline:hover{
     background: var(--jk-yellow);
     color: var(--text-color);
 }
 
-.jk-info-outline{
+.jkbtn-info-outline{
     background: none;
     border: 1px solid var(--jk-lightblue);
     color: var(--jk-lightblue);
 }
-.jk-info-outline:hover{
+.jkbtn-info-outline:hover{
     background: var(--jk-lightblue);
     color: var(--text-color);
 }
