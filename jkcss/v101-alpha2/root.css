@@ -18,13 +18,13 @@
   --jk-site-font: "Roboto", sans-serif;
 }
 
-.jkbtn {
+.jk-btn {
   padding: 15px 25px;
   transition: 0.4s;
   border-radius: 5px;
 }
 
-.jkbtn:hover {
+.jk-btn:hover {
   cursor: pointer;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }

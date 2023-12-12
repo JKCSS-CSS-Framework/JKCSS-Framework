@@ -19,13 +19,13 @@
   --jk-site-font: "Roboto", sans-serif;
 }
 
-.jk-btn, .no-border, .jk-info:hover, .jk-info, .jk-yellow:hover, .jk-yellow, .jk-red:hover, .jk-red, .jk-green:hover, .jk-green, .jk-gray:hover, .jk-gray, .jk-blue:hover, .jk-blue {
+.jk-btn, .jk-blue {
   padding: 15px 25px;
   transition: 0.4s;
   border-radius: 5px;
 }
 
-.jk-btn:hover, .no-border:hover, .jk-info:hover, .jk-yellow:hover, .jk-red:hover, .jk-green:hover, .jk-gray:hover, .jk-blue:hover {
+.jk-btn:hover, .jk-blue:hover {
   cursor: pointer;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -49,13 +49,13 @@
   --jk-site-font: "Roboto", sans-serif;
 }
 
-.jk-btn, .no-border, .jk-info:hover, .jk-info, .jk-yellow:hover, .jk-yellow, .jk-red:hover, .jk-red, .jk-green:hover, .jk-green, .jk-gray:hover, .jk-gray, .jk-blue:hover, .jk-blue {
+.jk-btn, .jk-blue {
   padding: 15px 25px;
   transition: 0.4s;
   border-radius: 5px;
 }
 
-.jk-btn:hover, .no-border:hover, .jk-info:hover, .jk-yellow:hover, .jk-red:hover, .jk-green:hover, .jk-gray:hover, .jk-blue:hover {
+.jk-btn:hover, .jk-blue:hover {
   cursor: pointer;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
