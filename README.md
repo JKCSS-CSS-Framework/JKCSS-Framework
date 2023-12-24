@@ -21,6 +21,10 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - Version 1.0.1-alpha1 - Developing layouts for css (Testing) - grid, rows, columns
 
+- The [JKCSS Icons](https://jkcss-css-framework.github.io/JKCSS-Icons/site/content/docs/) 
+
+- The Repo [JKCSS Icons](https://github.com/JKCSS-CSS-Framework/JKCSS-Icons) 
+
 - The layouts for css (grid, rows, columns) will be develop in 2.0.0 version
 
 # Projects
