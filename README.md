@@ -21,6 +21,8 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - Version 1.0.1-alpha1 - Developing layouts for css (Testing) - grid, rows, columns
 
+- The layouts for css (grid, rows, columns) will be develop in 2.0.0 version
+
 # Projects
 
 - Project JKCSS (Started 18 May 2023)
