@@ -29,7 +29,7 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.no-border, .jk-info:hover, .jkbtn-info, .jkbtn-yellow:hover, .jkbtn-yellow, .jkbtn-red:hover, .jkbtn-red, .jkbtn-green:hover, .jkbtn-green, .jkbtn-gray:hover, .jkbtn-gray, .jkbtn-blue:hover, .jkbtn-blue {
+.no-border, .jkbtn:hover, .jkbtn-info, .jkbtn-yellow:hover, .jkbtn-yellow, .jkbtn-red:hover, .jkbtn-red, .jkbtn-green:hover, .jkbtn-green, .jkbtn-gray:hover, .jkbtn-gray, .jkbtn-blue:hover, .jkbtn-blue {
   border: none;
   color: var(--text-color);
 }
@@ -78,7 +78,7 @@
   background-color: var(--jk-lightblue);
 }
 
-.jk-info:hover {
+.jkbtn:hover {
   background-color: var(--jk-lightblue-hover);
 }
 
