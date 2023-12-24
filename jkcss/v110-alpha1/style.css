@@ -44,3 +44,11 @@ footer {
 hr {
   margin: 15px 0;
 }
+
+.menu-list {
+  list-style-type: none;
+}
+
+.menu-list li {
+  display: inline-block;
+}
