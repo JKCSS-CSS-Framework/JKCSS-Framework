@@ -1,4 +1,4 @@
-.no-border, .jkbtn:hover, .jkbtn-info, .jkbtn-yellow:hover, .jkbtn-yellow, .jkbtn-red:hover, .jkbtn-red, .jkbtn-green:hover, .jkbtn-green, .jkbtn-gray:hover, .jkbtn-gray, .jkbtn-blue:hover, .jkbtn-blue {
+.no-border, .jkbtn-info:hover, .jkbtn-info, .jkbtn-yellow:hover, .jkbtn-yellow, .jkbtn-red:hover, .jkbtn-red, .jkbtn-green:hover, .jkbtn-green, .jkbtn-gray:hover, .jkbtn-gray, .jkbtn-blue:hover, .jkbtn-blue {
   border: none;
   color: var(--text-color);
 }
@@ -47,7 +47,7 @@
   background-color: var(--jk-lightblue);
 }
 
-.jkbtn:hover {
+.jkbtn-info:hover {
   background-color: var(--jk-lightblue-hover);
 }
 
