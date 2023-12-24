@@ -33,7 +33,9 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - fixing bugs on v1.0.1
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
+- disabled state of all Buttons (Basic, outline)
 - start adding css to html layouts (still Testing)
+
 
 ## Version - v1.1.0-alpha1 - 12 December 2023 
 
