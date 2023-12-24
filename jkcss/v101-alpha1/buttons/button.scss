@@ -8,7 +8,7 @@
 .jk-blue{
     background-color: var(--jk-blue);
     @extend .no-border;
-    @extend .jk-btn;
+    @extend .jkbtn;
 }
 .jk-blue:hover{
     background-color: var(--jk-blue-hover);
