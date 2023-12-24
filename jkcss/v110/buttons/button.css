@@ -117,7 +117,7 @@
   color: var(--text-color);
 }
 
-.jkbtn:disabled {
+.jkbtn-blue:disabled {
   pointer-events: none;
   opacity: 0.6;
 }
