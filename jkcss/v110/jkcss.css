@@ -148,11 +148,6 @@
   color: var(--text-color);
 }
 
-.jkbtn-blue:disabled {
-  pointer-events: none;
-  opacity: 0.6;
-}
-
 .site-container {
   padding: 0 150px;
 }
