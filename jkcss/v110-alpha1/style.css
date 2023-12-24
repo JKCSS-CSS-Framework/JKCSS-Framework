@@ -53,3 +53,7 @@ hr {
   display: inline-block;
   margin-right: 10px;
 }
+
+.menu-list li a {
+  text-decoration: none;
+}
