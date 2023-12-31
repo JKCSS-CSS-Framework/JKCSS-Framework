@@ -42,12 +42,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jkbtn jkbtn-yellow | button yellow |
 | jkbtn jkbtn-info | button info |
 
-| jkbtn jkbtn-blue-outline | button blue |
-| jkbtn jkbtn-gray-outline | button gray |
-| jkbtn jkbtn-green-outline | button green |
-| jkbtn jkbtn-red-outline | button red |
-| jkbtn jkbtn-yellow-outline | button yellow |
-| jkbtn jkbtn-info-outline | button info |
+| jkbtn jkbtn-blue-outline | button blue Outline  |
+| jkbtn jkbtn-gray-outline | button gray Outline  |
+| jkbtn jkbtn-green-outline | button green Outline  |
+| jkbtn jkbtn-red-outline | button red Outline  |
+| jkbtn jkbtn-yellow-outline | button yellow Outline  |
+| jkbtn jkbtn-info-outline | button info Outline  |
 
 # History
 
