@@ -44,7 +44,8 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v1.0.1-alpha1  | 31 October 2023  | buttons |
 | v1.0.1  | 07 December 2023  | buttons |
 | v1.1.0-alpha1  | 12 December 2023  | buttons |
-
+| v1.1.0  | 24 December 2023  | buttons |
+| v1.2.0  | 26 December 2023  | buttons |
 
  
 
