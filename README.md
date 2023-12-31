@@ -33,7 +33,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 # History
 
-| First Header  | Second Header | Description |
+| Releases  | Released Date | Description |
 | ------------- | ------------- | --------------- |
 | v0.1.0  | 18 May 2023  | site Develop |
 | v0.1.1  | 31 May 2023  | site Develop |
