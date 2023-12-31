@@ -51,6 +51,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jkbtn-sm jkbtn-blue-outline | Button Small Blue Outline  |
 | jkbtn-lg jkbtn-blue | Button Large Blue  |
 | jkbtn-lg jkbtn-blue-outline | Button Large Blue Outline  |
+| jk-h1 | JKCSS Heading 1  |
+| jk-h2 | JKCSS Heading 2  |
+| jk-h3 | JKCSS Heading 3  |
+| jk-h4 | JKCSS Heading 4  |
+| jk-h5 | JKCSS Heading 5  |
+| jk-h6 | JKCSS Heading 6  |
 
 # History
 
