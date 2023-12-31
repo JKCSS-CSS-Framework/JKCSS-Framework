@@ -31,6 +31,13 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - Project JKCSS (Started 18 May 2023)
 
+# History
+
+- v0.1.0 ()- site Develop
+- v0.1.1 ()- site Develop
+- v0.2.0 ()- site Develop
+- v1.0.0-beta1 ()- buttons
+
 # Releases
 
 ## Version - v2.0.0 - 01 January 2024 Latest
