@@ -48,9 +48,6 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v1.2.0  | 26 December 2023  | buttons |
 | v2.0.0  | 01 January 2024  | Typography |
 
- 
-
-
 
 # Releases
 
