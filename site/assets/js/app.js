@@ -41,11 +41,11 @@ fetch('../../../site/content/docs/button_nav.html')
     button_nav.innerHTML=data
 });
 
-const text_nav = document.querySelector('.button-nav')
-fetch('../../../site/content/docs/button_nav.html')
+const text_nav = document.querySelector('.text-nav')
+fetch('../../../site/content/docs/texts_nav.html')
 .then(res=>res.text())
 .then(data=>{
-    button_nav.innerHTML=data
+    text_nav.innerHTML=data
 });
 
 const column_nav = document.querySelector('.column-nav')
