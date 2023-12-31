@@ -31,6 +31,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - Project JKCSS (Started 18 May 2023)
 
+# Documentation
+
+| Class | Description |
+| -------- | -------- |
+| jkbtn jkbtn-blue | button blue |
+
 # History
 
 | Releases  | Released Date | Description |
