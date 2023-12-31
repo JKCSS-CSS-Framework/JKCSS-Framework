@@ -38,9 +38,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - updating <b>NPM pacakege</b> for framework (3rd version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
-- disabled state of all Buttons (Basic, outline)
-- button sizes (small, Large)
-
+- adding new Docs (Texts)
 
 ## Version - v1.2.0 - 26 December 2023 
 
