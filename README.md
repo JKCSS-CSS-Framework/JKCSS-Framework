@@ -57,6 +57,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-h4 | JKCSS Heading 4  |
 | jk-h5 | JKCSS Heading 5  |
 | jk-h6 | JKCSS Heading 6  |
+| jk-h1 | JKCSS Heading 1  |
+| jk-h2 | JKCSS Heading 2  |
+| jk-h3 | JKCSS Heading 3  |
+| jk-h4 | JKCSS Heading 4  |
+| jk-h5 | JKCSS Heading 5  |
+| jk-h6 | JKCSS Heading 6  |
 
 # History
 
