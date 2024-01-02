@@ -87,7 +87,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 ## Version - v2.1.0-alpha1 - 02 January 2024 Latest
 
-- updating <b>NPM pacakege</b> for framework (4th version)
+- updating <b>NPM pacakege</b> for framework (3rd version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
 - updating new Docs (typography)
@@ -95,7 +95,6 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 ## Version - v2.0.0 - 01 January 2024 
 
-- updating <b>NPM pacakege</b> for framework (3rd version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
 - adding new Docs (typography)
