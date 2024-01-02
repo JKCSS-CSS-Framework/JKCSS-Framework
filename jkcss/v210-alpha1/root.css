@@ -18,11 +18,11 @@
   --jk-site-font: "Roboto", sans-serif;
   --jk-heading: rgb(36, 36, 36);
   --jk-display-1: 5rem;
-  --jk-display-2: 5rem;
-  --jk-display-3: 5rem;
-  --jk-display-4: 5rem;
-  --jk-display-5: 5rem;
-  --jk-display-6: 5rem;
+  --jk-display-2: 4.5rem;
+  --jk-display-3: 4rem;
+  --jk-display-4: 3.5rem;
+  --jk-display-5: 3rem;
+  --jk-display-6: 2.5rem;
 }
 
 .jkbtn {
