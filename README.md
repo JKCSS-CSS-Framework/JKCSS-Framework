@@ -84,6 +84,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
 - updating new Docs (typography)
+- - adding jk-display styles
 
 ## Version - v2.0.0 - 01 January 2024 
 
