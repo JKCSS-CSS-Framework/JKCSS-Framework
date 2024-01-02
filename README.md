@@ -58,11 +58,11 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-h5 | JKCSS Heading 5  |
 | jk-h6 | JKCSS Heading 6  |
 | jk-display-1 | JKCSS Display 1  |
-| jk-display-2 | JKCSS Heading 2  |
-| jk-display-3 | JKCSS Heading 3  |
-| jk-display-4 | JKCSS Heading 4  |
-| jk-display-5 | JKCSS Heading 5  |
-| jk-display-6 | JKCSS Heading 6  |
+| jk-display-2 | JKCSS Display 2  |
+| jk-display-3 | JKCSS Display 3  |
+| jk-display-4 | JKCSS Display 4  |
+| jk-display-5 | JKCSS Display 5  |
+| jk-display-6 | JKCSS Display 6  |
 
 # History
 
