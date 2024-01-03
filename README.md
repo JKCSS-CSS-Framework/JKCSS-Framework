@@ -97,6 +97,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
 - updating new Docs (typography)
+- - adding HTML inline elements
 - fixing bugs
 - - remove all version vice folders
 - - now only one folder
