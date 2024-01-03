@@ -31,3 +31,10 @@
   font-size: var(--jk-display-6);
   font-weight: 300;
 }
+
+mark {
+  color: red;
+  background-color: yellow;
+  padding: 5px;
+  border-radius: 2px;
+}

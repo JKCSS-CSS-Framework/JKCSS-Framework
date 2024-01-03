@@ -216,6 +216,13 @@
   font-weight: 300;
 }
 
+mark {
+  color: red;
+  background-color: yellow;
+  padding: 5px;
+  border-radius: 2px;
+}
+
 .site-container {
   padding: 0 150px;
 }
