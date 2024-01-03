@@ -74,15 +74,15 @@ hr {
   margin: 15px 0;
 }
 
-.menu-list {
+.menu-list, .in-element-list {
   list-style-type: none;
 }
 
-.menu-list li {
+.menu-list li, .in-element-list li {
   display: inline-block;
   margin-right: 10px;
 }
 
-.menu-list li a {
+.menu-list li a, .in-element-list li a {
   text-decoration: none;
 }

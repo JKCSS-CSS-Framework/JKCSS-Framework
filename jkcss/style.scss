@@ -25,3 +25,6 @@ hr{
 .menu-list li a{
     text-decoration: none;
 }
+.in-element-list{
+    @extend .menu-list;
+}
