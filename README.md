@@ -3,6 +3,11 @@
 
 <p align="center">The JKCSS is a CSS Framework</p>
 
+# About JKCSS
+
+- Location: Sri Lanka
+- CSS Framework Developed in Sri Lanka 
+
 # Introduction
 
 All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
