@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit&family=Roboto&display=swap");
-.all-navbar, .other-nav, .text-nav, .column-nav, .button-nav {
+.all-navbar {
   background-color: var(--jk-purple);
   height: var(--jk-navheight);
   padding: 50px 0 0 0;
@@ -8,7 +8,7 @@
   color: var(--jk-mfont-color);
 }
 
-.header, .example-nav .header, .get-nav .header {
+.header, .example-nav .header, .get-nav .header, .other-nav .header, .text-nav .header, .column-nav .header, .button-nav .header {
   background-color: #A020F0;
   color: #fff;
   padding: 50px 0;
@@ -38,10 +38,6 @@
 
 .header .quote {
   padding-bottom: 40px;
-}
-
-.other-nav, .text-nav, .column-nav, .button-nav {
-  height: var(--othernav-height);
 }
 
 :root {

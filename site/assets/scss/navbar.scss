@@ -36,9 +36,8 @@
 .header .quote{
     padding-bottom: 40px;
 }
-.other-nav{
-    @extend .all-navbar;
-    height: var(--othernav-height);
+.other-nav .header{
+    @extend .header;
 }
 .get-nav .header{
     @extend .header;
