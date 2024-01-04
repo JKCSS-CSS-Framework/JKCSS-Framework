@@ -101,6 +101,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - fixing bugs
 - - remove all version vice folders
 - - now only one folder
+- adding user friendly nav bar
 
 ## Version - v2.1.0-alpha1 - 02 January 2024 
 
