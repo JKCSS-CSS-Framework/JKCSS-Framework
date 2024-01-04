@@ -24,7 +24,7 @@
 .header {
   background-color: #A020F0;
   color: #fff;
-  padding: 50px 0 0 0;
+  padding: 25px 0;
   text-align: center;
 }
 
@@ -33,6 +33,13 @@
   justify-content: space-around;
   background-color: #8223bd;
   padding: 10px;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  color: #fff;
+  padding: 8px 16px;
+  border-radius: 5px;
 }
 
 :root {
