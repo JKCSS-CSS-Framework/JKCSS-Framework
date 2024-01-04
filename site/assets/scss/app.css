@@ -21,6 +21,13 @@
   height: var(--othernav-height);
 }
 
+.header {
+  background-color: #A020F0;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
 :root {
   --jk-purple: #A020F0;
   --jk-navheight: 30vh;
