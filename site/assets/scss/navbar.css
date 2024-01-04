@@ -30,12 +30,12 @@
   border-radius: 5px;
 }
 
-.navbar .logo {
+.header .logo {
   font-size: var(--title-font);
   font-family: var(--title-font-family);
 }
 
-.navbar .quote {
+.header .quote {
   padding-bottom: 40px;
 }
 
