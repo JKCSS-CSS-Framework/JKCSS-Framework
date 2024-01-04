@@ -1,5 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit&family=Roboto&display=swap");
-.navbar, .other-nav, .text-nav, .column-nav, .button-nav, .example-nav, .get-nav {
+.all-navbar, .other-nav, .text-nav, .column-nav, .button-nav, .example-nav, .get-nav {
   background-color: var(--jk-purple);
   height: var(--jk-navheight);
   padding: 50px 0 0 0;
@@ -8,12 +8,12 @@
   color: var(--jk-mfont-color);
 }
 
-.navbar .logo, .other-nav .logo, .text-nav .logo, .column-nav .logo, .button-nav .logo, .example-nav .logo, .get-nav .logo {
+.navbar .logo {
   font-size: var(--title-font);
   font-family: var(--title-font-family);
 }
 
-.navbar .quote, .other-nav .quote, .text-nav .quote, .column-nav .quote, .button-nav .quote, .example-nav .quote, .get-nav .quote {
+.navbar .quote {
   padding-bottom: 40px;
 }
 
@@ -24,8 +24,15 @@
 .header {
   background-color: #A020F0;
   color: #fff;
-  padding: 10px;
+  padding: 50px 0 0 0;
   text-align: center;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-around;
+  background-color: #8223bd;
+  padding: 10px;
 }
 
 :root {
@@ -310,10 +317,10 @@ a {
     margin: 10px 0;
     display: block;
   }
-  .navbar, .other-nav, .get-nav, .example-nav, .button-nav, .column-nav, .text-nav {
+  .navbar {
     height: 40%;
   }
-  .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo, .column-nav .logo, .text-nav .logo {
+  .navbar .logo {
     font-size: 10%;
   }
   .get-started-btn, .all-examples-btn {
@@ -335,7 +342,7 @@ a {
   .footer-hr {
     display: block;
   }
-  .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo, .column-nav .logo, .text-nav .logo {
+  .navbar .logo {
     font-size: 10px;
   }
   .get-started-btn, .all-examples-btn {
@@ -355,7 +362,7 @@ a {
   .footer-hr {
     display: block;
   }
-  .navbar .logo, .other-nav .logo, .get-nav .logo, .example-nav .logo, .button-nav .logo, .column-nav .logo, .text-nav .logo {
+  .navbar .logo {
     font-size: 40px;
   }
   .get-started-btn, .all-examples-btn {

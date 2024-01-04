@@ -1,4 +1,4 @@
-.navbar{
+.all-navbar{
     background-color: var(--jk-purple);
     height: var(--jk-navheight);
     padding: 50px 0 0 0;
@@ -14,7 +14,7 @@
     padding-bottom: 40px;
 }
 .other-nav{
-    @extend .navbar;
+    @extend .all-navbar;
     height: var(--othernav-height);
 }
 .get-nav{
@@ -35,7 +35,7 @@
 .header{
     background-color: #A020F0;
     color: #fff;
-    padding: 10px;
+    padding: 50px 0 0 0;
     text-align: center;
 }
 .nav-bar{
