@@ -311,6 +311,14 @@ a {
 }
 
 @media only screen and (max-width: 600px) {
+  .nav-bar {
+    flex-direction: column;
+    align-items: center;
+  }
+  .nav-bar a {
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
   .site-container {
     padding: 0 20%;
     width: auto;
