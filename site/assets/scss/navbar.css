@@ -7,19 +7,6 @@
   color: var(--jk-mfont-color);
 }
 
-.navbar .logo {
-  font-size: var(--title-font);
-  font-family: var(--title-font-family);
-}
-
-.navbar .quote {
-  padding-bottom: 40px;
-}
-
-.other-nav, .text-nav, .column-nav, .button-nav, .example-nav {
-  height: var(--othernav-height);
-}
-
 .header, .get-nav .header {
   background-color: #A020F0;
   color: #fff;
@@ -41,4 +28,17 @@
   color: #fff;
   padding: 8px 16px;
   border-radius: 5px;
+}
+
+.navbar .logo {
+  font-size: var(--title-font);
+  font-family: var(--title-font-family);
+}
+
+.navbar .quote {
+  padding-bottom: 40px;
+}
+
+.other-nav, .text-nav, .column-nav, .button-nav, .example-nav {
+  height: var(--othernav-height);
 }
