@@ -21,7 +21,7 @@ fetch('nav.html')
 });
 
 const get_nav = document.querySelector('.get-nav')
-fetch('get_nav.html')
+fetch('navbar.html')
 .then(res=>res.text())
 .then(data=>{
     get_nav.innerHTML=data

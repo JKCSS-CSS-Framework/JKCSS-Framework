@@ -17,8 +17,8 @@
     @extend .all-navbar;
     height: var(--othernav-height);
 }
-.get-nav{
-    @extend .other-nav;
+.get-nav .header{
+    @extend .header;
 }
 .example-nav{
     @extend .other-nav;

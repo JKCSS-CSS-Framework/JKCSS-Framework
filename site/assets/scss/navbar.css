@@ -1,4 +1,4 @@
-.all-navbar, .other-nav, .text-nav, .column-nav, .button-nav, .example-nav, .get-nav {
+.all-navbar, .other-nav, .text-nav, .column-nav, .button-nav, .example-nav {
   background-color: var(--jk-purple);
   height: var(--jk-navheight);
   padding: 50px 0 0 0;
@@ -16,11 +16,11 @@
   padding-bottom: 40px;
 }
 
-.other-nav, .text-nav, .column-nav, .button-nav, .example-nav, .get-nav {
+.other-nav, .text-nav, .column-nav, .button-nav, .example-nav {
   height: var(--othernav-height);
 }
 
-.header {
+.header, .get-nav .header {
   background-color: #A020F0;
   color: #fff;
   padding: 50px 0;
