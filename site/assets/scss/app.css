@@ -311,9 +311,6 @@ a {
 }
 
 @media only screen and (max-width: 600px) {
-  .get-started-btn, .all-examples-btn {
-    width: 10000px;
-  }
   .nav-bar {
     flex-direction: column;
     align-items: center;
