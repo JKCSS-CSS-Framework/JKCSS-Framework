@@ -14,7 +14,7 @@ fetch('footerbar.html')
 
 
 const othernav = document.querySelector('.other-nav')
-fetch('nav.html')
+fetch('navbar.html')
 .then(res=>res.text())
 .then(data=>{
     othernav.innerHTML=data
