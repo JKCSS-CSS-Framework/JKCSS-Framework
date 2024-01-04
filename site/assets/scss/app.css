@@ -8,7 +8,7 @@
   color: var(--jk-mfont-color);
 }
 
-.header, .example-nav, .get-nav .example-nav, .get-nav .header {
+.header, .example-nav .header, .get-nav .header {
   background-color: #A020F0;
   color: #fff;
   padding: 50px 0;
@@ -31,12 +31,12 @@
   border-radius: 5px;
 }
 
-.header .logo, .example-nav .logo {
+.header .logo {
   font-size: var(--title-font);
   font-family: var(--title-font-family);
 }
 
-.header .quote, .example-nav .quote {
+.header .quote {
   padding-bottom: 40px;
 }
 
