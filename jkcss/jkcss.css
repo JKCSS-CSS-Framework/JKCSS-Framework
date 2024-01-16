@@ -227,25 +227,25 @@ mark {
   padding: 0 150px;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 100px) and (max-width: 599px) {
   .site-container {
     max-width: 540px;
     width: auto;
   }
 }
-@media only screen and (max-width: 768px) {
+@media (max-width: 600px) and (max-width: 767px) {
+  .site-container {
+    padding: 0 1%;
+    width: auto;
+  }
+}
+@media (min-width: 992px) {
   .site-container {
     padding: 0 20%;
     width: auto;
   }
 }
-@media only screen and (max-width: 992px) {
-  .site-container {
-    padding: 0 20%;
-    width: auto;
-  }
-}
-@media only screen and (max-width: 1200px) {
+@media (min-width: 1200px) {
   .site-container {
     padding: 0 20%;
     width: auto;
