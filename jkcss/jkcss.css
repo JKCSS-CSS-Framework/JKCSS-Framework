@@ -238,20 +238,6 @@ mark {
     padding: 0 20%;
     width: auto;
   }
-  .footer-grid {
-    display: flex;
-    flex-direction: column;
-  }
-  .footer-hr {
-    display: block;
-  }
-  .navbar .logo {
-    font-size: 10px;
-  }
-  .get-started-btn {
-    padding: 20px 30px;
-    width: 100%;
-  }
 }
 @media only screen and (max-width: 992px) {
   .site-container {
