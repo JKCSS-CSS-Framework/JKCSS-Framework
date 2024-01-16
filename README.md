@@ -69,16 +69,18 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-display-5 | JKCSS Display 5  |
 | jk-display-6 | JKCSS Display 6  |
 | line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
-| line | row of the columns |
+| rec-1 | column 1 |
+| rec-2 | column 1 |
+| rec-3 | column 1 |
+| rec-4 | column 1 |
+| rec-5 | column 1 |
+| rec-6 | column 1 |
+| rec-7 | column 1 |
+| rec-8 | column 1 |
+| rec-9 | column 1 |
+| rec-10 | column 1 |
+| rec-11 | column 1 |
+| rec-12 | column 1 |
 
 # History
 
