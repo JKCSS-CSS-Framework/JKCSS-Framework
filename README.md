@@ -68,7 +68,17 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-display-4 | JKCSS Display 4  |
 | jk-display-5 | JKCSS Display 5  |
 | jk-display-6 | JKCSS Display 6  |
-|  |  |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
+| line | row of the columns |
 
 # History
 
