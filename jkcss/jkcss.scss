@@ -4,7 +4,7 @@
 @import "layout/columns/columns.scss";
 
 .site-container{
-    padding: 0 150px;
+    padding: 0 10%;
 }
 
 @media (min-width: 100px) and (max-width: 600px) {
@@ -31,13 +31,6 @@
 @media (min-width: 993px) and (max-width: 1200px){
     .site-container{
         padding: 0 5%;
-        width: auto;        
-    }
-}
-
-@media (min-width: 1201px) {
-    .site-container{
-        padding: 0 20%;
         width: auto;        
     }
 }
