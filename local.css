@@ -66,6 +66,9 @@
     .line{
         flex-direction: column;
     }
+    .rec-1{
+        width: 100%;
+    }
 
 }
 
@@ -73,6 +76,12 @@
     .site-container{
         padding: 0 5%;
         width: auto;        
+    }
+    .line{
+        flex-direction: column;
+    }
+    .rec-1{
+        width: 100%;
     }
 
 }
@@ -82,6 +91,12 @@
         padding: 0 5%;
         width: auto;        
     }
+    .line{
+        flex-direction: column;
+    }
+    .rec-1{
+        width: 100%;
+    }
 
 }
 
@@ -89,6 +104,12 @@
     .site-container{
         padding: 0 5%;
         width: auto;        
+    }
+    .line{
+        flex-direction: column;
+    }
+    .rec-1{
+        width: 100%;
     }
 
 }
