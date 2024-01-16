@@ -10,52 +10,40 @@
     width: auto;
 }
 .rec-1{
-    flex: 0 0 auto;
-    width: 8.3%;
+    flex: 8.3%;
 }
 .rec-2{
-    flex: 0 0 auto;
-    width: 16.6%;
+    flex: 16.6%;
 }
 .rec-3{
-    flex: 0 0 auto;
-    width: 25%;
+    flex: 25%;
 }
 .rec-4{
-    flex: 0 0 auto;
-    width: 33.3%;
+    flex: 33.3%;
 }
 .rec-5{
-    flex: 0 0 auto;
-    width: 41.6%;
+    flex: 41.6%;
 }
 .rec-6{
-    flex: 0 0 auto;
-    width: 50%;
+    flex: 50%;
 }
 .rec-7{
-    flex: 0 0 auto;
-    width: 58.3%;
+    flex: 58.3%;
 }
 .rec-8{
-    flex: 0 0 auto;
-    width: 66.6%;
+    flex: 66.6%;
 }
 .rec-9{
-    flex: 0 0 auto;
-    width: 75%;
+    flex: 75%;
 }
 .rec-10{
-    flex: 0 0 auto;
-    width: 83.3%;
+    flex: 83.3%;
 }
 .rec-11{
-    flex: 0 0 auto;
-    width: 91.6%;
+    flex: 91.6%;
 }
 .rec-12{
-    flex: 0 0 auto;
-    width: 100%;
+    flex: 100%;
 }
 
 @media (min-width: 100px) and (max-width: 600px) {
@@ -63,10 +51,43 @@
         padding: 0 5%;
         width: auto;        
     }
-    .line{
-        flex-direction: column;
-    }
 
+    .rec-1{
+        flex: 100%;
+    }
+    .rec-2{
+        flex: 100%;
+    }
+    .rec-3{
+        flex: 100%;
+    }
+    .rec-4{
+        flex: 100%;
+    }
+    .rec-5{
+        flex: 100%;
+    }
+    .rec-6{
+        flex: 100%;
+    }
+    .rec-7{
+        flex: 100%;
+    }
+    .rec-8{
+        flex: 100%;
+    }
+    .rec-9{
+        flex: 100%;
+    }
+    .rec-10{
+        flex: 100%;
+    }
+    .rec-11{
+        flex: 100%;
+    }
+    .rec-12{
+        flex: 100%;
+    }
 }
 
 @media (min-width: 601px) and (max-width: 768px) {
@@ -74,9 +95,44 @@
         padding: 0 5%;
         width: auto;        
     }
-    .line{
-        flex-basis: 25%;
+
+    .rec-1{
+        flex: 50%;
     }
+    .rec-2{
+        flex: 50%;
+    }
+    .rec-3{
+        flex: 50%;
+    }
+    .rec-4{
+        flex: 50%;
+    }
+    .rec-5{
+        flex: 50%;
+    }
+    .rec-6{
+        flex: 50%;
+    }
+    .rec-7{
+        flex: 50%;
+    }
+    .rec-8{
+        flex: 50%;
+    }
+    .rec-9{
+        flex: 50%;
+    }
+    .rec-10{
+        flex: 50%;
+    }
+    .rec-11{
+        flex: 50%;
+    }
+    .rec-12{
+        flex: 50%;
+    }
+
 
 }
 
