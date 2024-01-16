@@ -7,7 +7,7 @@
     padding: 0 150px;
 }
 
-@media only screen and (max-width: 600px) {
+@media (min-width: 600px) {
     .site-container{
         max-width: 540px;
         width: auto;        
