@@ -10,40 +10,52 @@
     width: auto;
 }
 .rec-1{
-    flex: 8.3%;
+    flex: 0 0 auto;
+    width: 8.3%;
 }
 .rec-2{
-    flex: 16.6%;
+    flex: 0 0 auto;
+    width: 16.6%;
 }
 .rec-3{
-    flex: 25%;
+    flex: 0 0 auto;
+    width: 25%;
 }
 .rec-4{
-    flex: 33.3%;
+    flex: 0 0 auto;
+    width: 33.3%;
 }
 .rec-5{
-    flex: 41.6%;
+    flex: 0 0 auto;
+    width: 41.6%;
 }
 .rec-6{
-    flex: 50%;
+    flex: 0 0 auto;
+    width: 50%;
 }
 .rec-7{
-    flex: 58.3%;
+    flex: 0 0 auto;
+    width: 58.3%;
 }
 .rec-8{
-    flex: 66.6%;
+    flex: 0 0 auto;
+    width: 66.6%;
 }
 .rec-9{
-    flex: 75%;
+    flex: 0 0 auto;
+    width: 75%;
 }
 .rec-10{
-    flex: 83.3%;
+    flex: 0 0 auto;
+    width: 83.3%;
 }
 .rec-11{
-    flex: 91.6%;
+    flex: 0 0 auto;
+    width: 91.6%;
 }
 .rec-12{
-    flex: 100%;
+    flex: 0 0 auto;
+    width: 100%;
 }
 
 @media (min-width: 100px) and (max-width: 600px) {
@@ -51,43 +63,10 @@
         padding: 0 5%;
         width: auto;        
     }
+    .line{
+        flex-direction: column;
+    }
 
-    .rec-1{
-        flex: 100%;
-    }
-    .rec-2{
-        flex: 100%;
-    }
-    .rec-3{
-        flex: 100%;
-    }
-    .rec-4{
-        flex: 100%;
-    }
-    .rec-5{
-        flex: 100%;
-    }
-    .rec-6{
-        flex: 100%;
-    }
-    .rec-7{
-        flex: 100%;
-    }
-    .rec-8{
-        flex: 100%;
-    }
-    .rec-9{
-        flex: 100%;
-    }
-    .rec-10{
-        flex: 100%;
-    }
-    .rec-11{
-        flex: 100%;
-    }
-    .rec-12{
-        flex: 100%;
-    }
 }
 
 @media (min-width: 601px) and (max-width: 768px) {
@@ -96,42 +75,6 @@
         width: auto;        
     }
 
-    .rec-1{
-        flex: 50%;
-    }
-    .rec-2{
-        flex: 50%;
-    }
-    .rec-3{
-        flex: 50%;
-    }
-    .rec-4{
-        flex: 50%;
-    }
-    .rec-5{
-        flex: 50%;
-    }
-    .rec-6{
-        flex: 50%;
-    }
-    .rec-7{
-        flex: 50%;
-    }
-    .rec-8{
-        flex: 50%;
-    }
-    .rec-9{
-        flex: 50%;
-    }
-    .rec-10{
-        flex: 50%;
-    }
-    .rec-11{
-        flex: 50%;
-    }
-    .rec-12{
-        flex: 50%;
-    }
 }
 
 @media (min-width: 769px) and (max-width: 992px){
@@ -139,42 +82,7 @@
         padding: 0 5%;
         width: auto;        
     }
-    .rec-1{
-        flex: 33.3%;
-    }
-    .rec-2{
-        flex: 33.3%;
-    }
-    .rec-3{
-        flex: 33.3%;
-    }
-    .rec-4{
-        flex: 33.3%;
-    }
-    .rec-5{
-        flex: 33.3%;
-    }
-    .rec-6{
-        flex: 33.3%;
-    }
-    .rec-7{
-        flex: 33.3%;
-    }
-    .rec-8{
-        flex: 33.3%;
-    }
-    .rec-9{
-        flex: 33.3%;
-    }
-    .rec-10{
-        flex: 33.3%;
-    }
-    .rec-11{
-        flex: 33.3%;
-    }
-    .rec-12{
-        flex: 33.3%;
-    }
+
 }
 
 @media (min-width: 993px) and (max-width: 1200px){
@@ -182,40 +90,5 @@
         padding: 0 5%;
         width: auto;        
     }
-    .rec-1{
-        flex: 25%;
-    }
-    .rec-2{
-        flex: 25%;
-    }
-    .rec-3{
-        flex: 25%;
-    }
-    .rec-4{
-        flex: 25%;
-    }
-    .rec-5{
-        flex: 25%;
-    }
-    .rec-6{
-        flex: 25%;
-    }
-    .rec-7{
-        flex: 25%;
-    }
-    .rec-8{
-        flex: 25%;
-    }
-    .rec-9{
-        flex: 25%;
-    }
-    .rec-10{
-        flex: 25%;
-    }
-    .rec-11{
-        flex: 25%;
-    }
-    .rec-12{
-        flex: 25%;
-    }
+
 }
