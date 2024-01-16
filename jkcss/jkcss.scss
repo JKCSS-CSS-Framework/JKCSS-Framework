@@ -26,37 +26,11 @@
         padding: 0 20%;
         width: auto;        
     }
-    .footer-grid{
-        display: flex;
-        flex-direction: column;
-    }
-    .footer-hr{
-        display: block;
-    }
-    .navbar .logo{
-        font-size: 40px;
-    }
-    .get-started-btn{
-        padding: 10px 20px;
-        width: 20%;
-    }
 }
-
 
 @media only screen and (max-width: 1200px) {
     .site-container{
         padding: 0 20%;
         width: auto;        
-    }
-    .footer-grid{
-        display: flex;
-        flex-direction: column;
-    }
-    .footer-hr{
-        display: block;
-    }
-    .get-started-btn{
-        padding: 10px 20px;
-        width: 40%;
     }
 }
