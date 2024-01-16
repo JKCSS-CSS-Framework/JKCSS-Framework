@@ -238,11 +238,15 @@ a {
   margin: 50px 20px;
 }
 
-.file-view {
+.file-view, .column-view {
   background-color: var(--file-backcolor);
   color: var(--file-font);
   padding: 0 10px;
   border-radius: 5px;
+}
+
+.column-view {
+  width: 100%;
 }
 
 .code-back {

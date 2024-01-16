@@ -91,6 +91,10 @@ a{
     padding: 0 10px;
     border-radius: 5px;
 }
+.column-view{
+    width: 100%;
+    @extend .file-view;
+}
 .code-back{
     background-color: var(--code-backcolor);
     padding: 20px 50px;
