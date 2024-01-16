@@ -132,8 +132,6 @@
     .rec-12{
         flex: 50%;
     }
-
-
 }
 
 @media (min-width: 769px) and (max-width: 992px){
@@ -141,11 +139,83 @@
         padding: 0 5%;
         width: auto;        
     }
+    .rec-1{
+        flex: 33.3%;
+    }
+    .rec-2{
+        flex: 33.3%;
+    }
+    .rec-3{
+        flex: 33.3%;
+    }
+    .rec-4{
+        flex: 33.3%;
+    }
+    .rec-5{
+        flex: 33.3%;
+    }
+    .rec-6{
+        flex: 33.3%;
+    }
+    .rec-7{
+        flex: 33.3%;
+    }
+    .rec-8{
+        flex: 33.3%;
+    }
+    .rec-9{
+        flex: 33.3%;
+    }
+    .rec-10{
+        flex: 33.3%;
+    }
+    .rec-11{
+        flex: 33.3%;
+    }
+    .rec-12{
+        flex: 33.3%;
+    }
 }
 
 @media (min-width: 993px) and (max-width: 1200px){
     .site-container{
         padding: 0 5%;
         width: auto;        
+    }
+    .rec-1{
+        flex: 25%;
+    }
+    .rec-2{
+        flex: 25%;
+    }
+    .rec-3{
+        flex: 25%;
+    }
+    .rec-4{
+        flex: 25%;
+    }
+    .rec-5{
+        flex: 25%;
+    }
+    .rec-6{
+        flex: 25%;
+    }
+    .rec-7{
+        flex: 25%;
+    }
+    .rec-8{
+        flex: 25%;
+    }
+    .rec-9{
+        flex: 25%;
+    }
+    .rec-10{
+        flex: 25%;
+    }
+    .rec-11{
+        flex: 25%;
+    }
+    .rec-12{
+        flex: 25%;
     }
 }
