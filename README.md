@@ -87,7 +87,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v2.0.0  | 01 January 2024  | Typography |
 | v2.1.0-alpha1  | 02 January 2024  | Typography |
 | v2.1.0-beta1  | 04 January 2024  | site Develop , Typography |
-
+| v3.0.0  | 16 January 2024  | Layouts, columns |
 
 # Releases
 
