@@ -58,49 +58,7 @@
     width: 100%;
 }
 
-@media (min-width: 100px) and (max-width: 600px) {
-    .site-container{
-        padding: 0 5%;
-        width: auto;        
-    }
-    .line{
-        flex-direction: column;
-    }
-    .rec-1{
-        width: 100%;
-    }
-
-}
-
-@media (min-width: 601px) and (max-width: 768px) {
-    .site-container{
-        padding: 0 5%;
-        width: auto;        
-    }
-    .line{
-        flex-direction: column;
-    }
-    .rec-1{
-        width: 100%;
-    }
-
-}
-
-@media (min-width: 769px) and (max-width: 992px){
-    .site-container{
-        padding: 0 5%;
-        width: auto;        
-    }
-    .line{
-        flex-direction: column;
-    }
-    .rec-1{
-        width: 100%;
-    }
-
-}
-
-@media (min-width: 993px) and (max-width: 1200px){
+@media (min-width: 100px) and (max-width: 991px) {
     .site-container{
         padding: 0 5%;
         width: auto;        

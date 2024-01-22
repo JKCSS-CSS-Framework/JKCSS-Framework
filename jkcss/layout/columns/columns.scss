@@ -57,4 +57,17 @@
     flex: 0 0 auto;
     width: 100%;
 }
+@media (min-width: 100px) and (max-width: 991px) {
+    .site-container{
+        padding: 0 5%;
+        width: auto;        
+    }
+    .line{
+        flex-direction: column;
+    }
+    .rec-1{
+        width: 100%;
+    }
+}
+
 
