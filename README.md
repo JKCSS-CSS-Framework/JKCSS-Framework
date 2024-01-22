@@ -109,8 +109,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - updating <b>NPM pacakege</b> for framework (6th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
-- 3rd Major Release : Adding layout (columns)
-
+- Updating Layouts(responsive columns)
 
 ## Version - v3.0.0 - 16 January 2024 
 
