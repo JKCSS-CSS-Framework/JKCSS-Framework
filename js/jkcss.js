@@ -1,5 +1,5 @@
 const jkmodebtn = document.querySelector('#jkbtn-popup');
-const jkmodal = document.querySelector('#model-jk');
+const jkmodal = document.querySelector('#modalJK');
 const closeModel = document.querySelector('#closeModel');
 
 jkmodebtn.addEventListener('click', ModelJKOpen);
