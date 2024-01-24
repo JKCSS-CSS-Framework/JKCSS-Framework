@@ -388,12 +388,6 @@ hr {
   border: 1px solid rgb(184, 183, 183);
 }
 
-.jk-card {
-  width: 100%;
-  border: 1px solid grey;
-  margin: 0 15px;
-}
-
 .site-container {
   padding: 0 10%;
   font-family: var(--jk-site-font);
