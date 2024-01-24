@@ -380,6 +380,7 @@ hr {
   font-family: "Roboto", sans-serif;
   outline: none;
   transition: 0.2s;
+  margin: 10px 0;
 }
 
 .control-jkforms:focus {
