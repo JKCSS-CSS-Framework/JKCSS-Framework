@@ -369,7 +369,7 @@ hr {
   border: 1px solid rgba(185, 185, 185, 0.616);
 }
 
-.control-jkforms, input[type=password], input[type=email] {
+.control-jkforms {
   width: 100%;
   border: 1px solid rgb(187, 187, 187);
   height: 35px;

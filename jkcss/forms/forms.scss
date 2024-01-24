@@ -15,10 +15,5 @@
     background-color: rgb(245, 245, 245);
     border: 1px solid rgb(184, 183, 183);    
 }
-.input[type=password]{
-    @extend .control-jkforms;
-}
-input[type=email]{
-    @extend .control-jkforms;
-}
+
 
