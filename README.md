@@ -101,15 +101,19 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v2.1.0-alpha1  | 02 January 2024  | Typography |
 | v2.1.0-beta1  | 04 January 2024  | site Develop , Typography |
 | v3.0.0  | 16 January 2024  | Layouts, columns |
+| v3.0.1  | 22 January 2024  | Layouts, columns |
+| v4.0.0  | 24 January 2024  | javascript, Modals |
 
 # Releases
 
 ## Version - v4.0.0 - 24 January 2024 Latest
 
+- 1st version with javascript
 - updating <b>NPM pacakege</b> for framework (6th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
-- Updating Layouts(responsive columns)
+- adding Modals
+- adding javascripts
 - 4th Major Release : Adding layout (columns)
 
 ## Version - v3.0.1 - 22 January 2024 
