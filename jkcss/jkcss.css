@@ -391,6 +391,7 @@ hr {
 .jk-card {
   width: 100%;
   border: 1px solid grey;
+  margin: 0 15px;
 }
 
 .site-container {
