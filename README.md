@@ -81,6 +81,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | rec-10 | column 10 |
 | rec-11 | column 11 |
 | rec-12 | column 12 |
+| jk-modal | base class of Modal |
 
 # History
 
