@@ -1,4 +1,4 @@
-.control-jkforms, input[type=password], input[type=email] {
+.control-jkforms, input[type=email], .input[type=password] {
   width: 100%;
   border: 1px solid rgb(187, 187, 187);
   height: 35px;
@@ -12,7 +12,7 @@
   margin: 10px 0;
 }
 
-.control-jkforms:focus {
+.control-jkforms:focus, input[type=email]:focus, .input[type=password]:focus {
   background-color: rgb(245, 245, 245);
   border: 1px solid rgb(184, 183, 183);
 }
