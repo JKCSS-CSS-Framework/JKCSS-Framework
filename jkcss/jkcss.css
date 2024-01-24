@@ -369,7 +369,7 @@ hr {
   border: 1px solid rgba(185, 185, 185, 0.616);
 }
 
-.control-jkforms {
+.control-jkforms, input[type=paswsword] {
   width: 100%;
   border: 1px solid rgb(187, 187, 187);
   height: 35px;
@@ -383,7 +383,7 @@ hr {
   margin: 10px 0;
 }
 
-.control-jkforms:focus {
+.control-jkforms:focus, input[type=paswsword]:focus {
   background-color: rgb(245, 245, 245);
   border: 1px solid rgb(184, 183, 183);
 }
