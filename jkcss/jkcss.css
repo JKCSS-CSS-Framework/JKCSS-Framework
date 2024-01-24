@@ -369,6 +369,24 @@ hr {
   border: 1px solid rgba(185, 185, 185, 0.616);
 }
 
+.control-jkforms, input[type=password], input[type=email] {
+  width: 100%;
+  border: 1px solid rgb(187, 187, 187);
+  height: 35px;
+  border-radius: 3px;
+  padding: 0 10px;
+  color: rgb(31, 31, 31);
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  outline: none;
+  transition: 0.2s;
+}
+
+.control-jkforms:focus {
+  background-color: rgb(245, 245, 245);
+  border: 1px solid rgb(184, 183, 183);
+}
+
 .site-container {
   padding: 0 10%;
   font-family: var(--jk-site-font);
