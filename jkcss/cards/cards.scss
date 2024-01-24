@@ -1,0 +1,19 @@
+.jk-card{
+    width: 100%;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 5px;
+}
+.jk-card .header-card{
+    background: rgb(243, 243, 243);
+    padding: 20px 15px;
+    border-bottom: 1px solid rgb(204, 204, 204);
+}
+.jk-card .content-card{
+    color: black;
+    padding: 20px 15px;
+}
+.jk-card .footer-card{
+    border-top: 1px solid rgb(204, 204, 204);
+    padding: 10px 15px;
+    background-color: rgb(241, 241, 241);
+}
