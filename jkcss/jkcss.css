@@ -343,6 +343,7 @@ mark {
 }
 .site-container {
   padding: 0 10%;
+  font-family: var(--jk-site-font);
 }
 
 @media (min-width: 100px) and (max-width: 600px) {
