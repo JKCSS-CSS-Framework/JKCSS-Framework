@@ -115,7 +115,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - Improve Base Interfaces
 - adding Modals
 - adding javascripts
-- 4th Major Release : Adding layout (columns)
+- 4th Major Release : Adding (javascript)
 
 ## Version - v3.0.1 - 22 January 2024 
 
