@@ -34,6 +34,8 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - javascrip added in Version v4.0.0
 
+- in [jsdelivr](https://www.jsdelivr.com/package/npm/@jehankandy/jkcss)
+
 # Projects
 
 - Project JKCSS (Started 18 May 2023)
