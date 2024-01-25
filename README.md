@@ -83,6 +83,9 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | rec-12 | column 12 |
 | jk-modal | base class of Modal |
 | control-jkforms | For all Form inputs |
+| jk-card | For Cards |
+| jk-table | base tale |
+| jk-table hover-table | base table hover rows |
 
 
 # History
