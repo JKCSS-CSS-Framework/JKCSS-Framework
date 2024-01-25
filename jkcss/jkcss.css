@@ -434,6 +434,14 @@ hr {
   border-radius: 0 8px 0 0;
 }
 
+.hover-table tbody tr {
+  transition: 0.3s;
+}
+
+.hover-table tbody tr:hover {
+  background-color: rgb(156, 156, 156);
+}
+
 .site-container {
   padding: 0 10%;
   font-family: var(--jk-site-font);

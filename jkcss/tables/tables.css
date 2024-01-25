@@ -22,7 +22,7 @@
 }
 
 .hover-table tbody tr {
-  transition: 0.5s;
+  transition: 0.3s;
 }
 
 .hover-table tbody tr:hover {
