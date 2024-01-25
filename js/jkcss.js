@@ -14,4 +14,5 @@ window.onload = function(){
   function ModeljkClosebtn(){
     jkmodal.style.display = 'none';
   }
+  
 }
