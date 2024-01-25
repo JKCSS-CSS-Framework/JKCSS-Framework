@@ -14,7 +14,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
 
-- Current Release : [v1.1.0 - 24 December 2023 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.1.0)
+- Current Release : [v4.1.0 - 25 January 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.1.0)
 
 - Publishing as a Npm Package version [v1.0.1](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v1.0.1). as version 1.0.0 in Npm 
 
