@@ -1,4 +1,4 @@
-const jkmodebtn = document.querySelector('#jkbtn-popup');
+const jkmodebtn = document.querySelector('#jkbtnPopup');
 const jkmodal = document.querySelector('#modalJK');
 const closeModel = document.querySelector('#closeModel');
 
