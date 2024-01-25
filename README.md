@@ -30,7 +30,9 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - The Repo [JKCSS Icons](https://github.com/JKCSS-CSS-Framework/JKCSS-Icons) 
 
-- The layouts for css (grid, rows, columns) will be develop in 2.0.0 version
+- The layouts for css (grid, rows, columns) added in 3.0.0 version
+
+- javascrip added in Version v4.0.0
 
 # Projects
 
