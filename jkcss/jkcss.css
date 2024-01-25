@@ -439,7 +439,7 @@ hr {
 }
 
 .hover-table tbody tr:hover {
-  background-color: rgb(156, 156, 156);
+  background-color: rgba(233, 233, 233, 0.911);
 }
 
 .site-container {
