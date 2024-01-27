@@ -21,3 +21,9 @@
   color: var(--alert-red-font);
   border: 1px solid rgba(202, 45, 61, 0.9333333333);
 }
+
+.alertjk-yellow {
+  background: var(--alert-yellow);
+  color: var(--alert-yellow-font);
+  border: 1px solid #ff9900;
+}
