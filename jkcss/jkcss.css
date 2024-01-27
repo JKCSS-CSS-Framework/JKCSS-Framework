@@ -1,8 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit&family=Roboto&display=swap");
 :root {
   --jk-blue: #1672fd;
-  --alert-blue: #9bbef3;
-  --alert-blue-font: rgb(35, 35, 252);
   --jk-blue-hover: #025ce4;
   --text-color: white;
   --jk-gray: grey;
@@ -25,6 +23,12 @@
   --jk-display-4: 3.5rem;
   --jk-display-5: 3rem;
   --jk-display-6: 2.5rem;
+  --alert-blue: #9bbef3;
+  --alert-blue-font: rgb(35, 35, 252);
+  --alert-gray: rgb(185, 185, 185);
+  --alert-gray-font: rgb(255, 255, 255);
+  --alert-green:
+  --alert-green-font: ;
 }
 
 .jkbtn {
