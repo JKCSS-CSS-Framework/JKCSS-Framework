@@ -115,7 +115,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.0.0  | 24 January 2024  | javascript, Modals |
 | v4.1.0-beta1  | 24 January 2024  | checking Forms |
 | v4.1.0  | 25 January 2024  | Forms, Cards, Tables  |
-| v4.1.1  | 27 January 2024  | Forms, Cards, Tables  |
+| v4.1.1  | 27 January 2024  | Fixing Bus on Modals  |
 
 # Releases
 
