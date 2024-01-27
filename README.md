@@ -90,7 +90,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-card | For Cards |
 | jk-table | base tale |
 | jk-table hover-table | base table hover rows |
-
+| alertjk alertjk-blue | Blue Alert |
+| alertjk alertjk-gray | Gray Alert |
+| alertjk alertjk-green | Green Alert |
+| alertjk alertjk-red | Red Alert |
+| alertjk alertjk-yellow | Blue Alert |
+| alertjk alertjk-info | Blue Alert |
 
 # History
 
