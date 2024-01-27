@@ -94,8 +94,8 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | alertjk alertjk-gray | Gray Alert |
 | alertjk alertjk-green | Green Alert |
 | alertjk alertjk-red | Red Alert |
-| alertjk alertjk-yellow | Blue Alert |
-| alertjk alertjk-info | Blue Alert |
+| alertjk alertjk-yellow | Yellow Alert |
+| alertjk alertjk-info | Light Blue Alert |
 
 # History
 
