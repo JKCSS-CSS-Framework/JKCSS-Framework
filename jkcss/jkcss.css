@@ -447,6 +447,12 @@ mark {
   background-color: rgba(233, 233, 233, 0.911);
 }
 
+.alertjk-blue {
+  background: #9bbef3;
+  color: rgb(35, 35, 252);
+  border: 1px solid rgb(92, 92, 253);
+}
+
 .site-container {
   padding: 0 10%;
   font-family: var(--jk-site-font);
