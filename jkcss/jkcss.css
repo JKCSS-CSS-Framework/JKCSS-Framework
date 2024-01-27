@@ -477,6 +477,12 @@ mark {
   border: 1px solid #1b8b57;
 }
 
+.alertjk-red {
+  background: var(--alert-red);
+  color: var(--alert-red-font);
+  border: 1px solid rgba(202, 45, 61, 0.9333333333);
+}
+
 .site-container {
   padding: 0 10%;
   font-family: var(--jk-site-font);
