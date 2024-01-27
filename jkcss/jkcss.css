@@ -58,6 +58,13 @@
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+.alertjk {
+  padding: 20px 40px;
+  margin: 0 20px;
+  border-radius: 2px;
+  font-size: 20px;
+}
+
 .no-border, .jkbtn-info:hover, .jkbtn-info, .jkbtn-yellow:hover, .jkbtn-yellow, .jkbtn-red:hover, .jkbtn-red, .jkbtn-green:hover, .jkbtn-green, .jkbtn-gray:hover, .jkbtn-gray, .jkbtn-blue:hover, .jkbtn-blue {
   border: none;
   color: var(--text-color);
