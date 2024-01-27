@@ -27,3 +27,9 @@
   color: var(--alert-yellow-font);
   border: 1px solid #ff9900;
 }
+
+.alertjk-info {
+  background: var(--alert-info);
+  color: var(--alert-info-font);
+  border: 1px solid #54b4d3;
+}
