@@ -125,11 +125,9 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 - updating <b>NPM pacakege</b> for framework (8th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
 - Improve Base Interfaces
-- Fixing Bugs on Modals
-- - User Friendly Moldes
+- Adding Alerts
 
-
-## Version - v4.1.1 - 27 January 2024 Latest
+## Version - v4.1.1 - 27 January 2024 
 
 - updating <b>NPM pacakege</b> for framework (8th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
