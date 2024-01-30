@@ -38,6 +38,10 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - On PHP: Successfully Tested
 
+- On Laraval: Testing...
+
+- On React: Testing...
+
 # Projects
 
 - Project JKCSS (Started 18 May 2023)
