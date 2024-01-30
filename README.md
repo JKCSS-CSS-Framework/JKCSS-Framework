@@ -122,10 +122,18 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.1.0  | 25 January 2024  | Forms, Cards, Tables  |
 | v4.1.1  | 27 January 2024  | Fixing Bus on Modals  |
 | v4.2.0  | 27 January 2024  | Adding HTMl Alerts  |
+| v4.3.0  | 30 January 2024  | Fixing bus, Adding Multiple Modals  |
 
 # Releases
 
-## Version - v4.2.0 - 27 January 2024 Latest
+## Version - v4.3.0 - 30 January 2024 Latest
+
+- updating <b>NPM pacakege</b> for framework (8th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- Adding Alerts
+
+## Version - v4.2.0 - 27 January 2024 
 
 - updating <b>NPM pacakege</b> for framework (8th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
