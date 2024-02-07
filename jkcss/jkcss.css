@@ -564,6 +564,10 @@ mark {
   width: 30%;
 }
 
+.rounded-2 {
+  border-radius: 2px;
+}
+
 .site-container {
   padding: 0 10%;
   font-family: var(--jk-site-font);
