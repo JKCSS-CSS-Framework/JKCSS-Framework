@@ -102,6 +102,10 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | alertjk alertjk-red | Red Alert |
 | alertjk alertjk-yellow | Yellow Alert |
 | alertjk alertjk-info | Light Blue Alert |
+| jk-img | image |
+| jk-img sm | image small |
+| jk-img md | image Medium |
+| jk-img lg | image large |
 
 # History
 
