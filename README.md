@@ -132,6 +132,15 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 # Releases
 
+## Version - v4.4.0 - 7 January 2024 Latest
+
+- updating <b>NPM pacakege</b> for framework (8th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- fixing bugs on v4.0.0 to v4.2.0 on Modals
+- adding multiple modals in same page
+
+
 ## Version - v4.3.0 - 30 January 2024 Latest
 
 - updating <b>NPM pacakege</b> for framework (8th version)
