@@ -544,6 +544,11 @@ mark {
   border: 1px solid #54b4d3;
 }
 
+.jk-img {
+  width: auto;
+  height: auto;
+}
+
 .site-container {
   padding: 0 10%;
   font-family: var(--jk-site-font);
