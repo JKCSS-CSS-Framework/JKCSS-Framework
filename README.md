@@ -138,7 +138,15 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 # Releases
 
-## Version - v4.4.0 - 7 February 2024 Latest
+## Version - v4.5.0 - 12 February 2024 Latest
+
+- updating <b>NPM pacakege</b> for framework (8th version)
+- npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
+- Improve Base Interfaces
+- adding Styles of Images
+
+
+## Version - v4.4.0 - 7 February 2024 
 
 - updating <b>NPM pacakege</b> for framework (8th version)
 - npm link: [@jehankandy/jkcss](https://www.npmjs.com/package/@jehankandy/jkcss)
