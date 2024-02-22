@@ -90,6 +90,7 @@
 
 .waynpm {
   border: 1px solid var(--jk-purple);
+  color: var(--jk-purple);
   border-radius: 5px;
   margin: 10px 0;
   text-align: center;
