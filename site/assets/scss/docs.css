@@ -34,3 +34,7 @@
   color: var(--jk-mfont-color);
   font-style: italic;
 }
+
+.read-btn {
+  background-color: var(--jk-purple);
+}
