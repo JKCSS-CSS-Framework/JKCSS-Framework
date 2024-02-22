@@ -18,7 +18,7 @@
 
 .nav-bar {
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
   background-color: #8223bd;
   padding: 10px;
   font-family: var(--jk-site-font);
