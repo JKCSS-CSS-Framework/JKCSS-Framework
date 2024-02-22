@@ -226,7 +226,7 @@
 
 .side-bar {
   height: 100vh;
-  width: 100px;
+  width: 50%;
   padding: 40px 0;
   background-color: #7f17c0;
   border-right: 5px solid red;
