@@ -160,8 +160,9 @@
   font-style: italic;
 }
 
-.home-back .start-any {
+.npm-home {
   border: 1px solid black;
+  width: 50%;
 }
 
 .site-container {
