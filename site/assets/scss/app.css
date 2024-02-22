@@ -150,7 +150,7 @@
 
 .home-back {
   height: 600px;
-  background-image: linear-gradient(40deg, pink, blue);
+  background-image: linear-gradient(40deg, var(--jk-purple), blue);
 }
 
 .site-container {
