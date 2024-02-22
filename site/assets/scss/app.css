@@ -205,6 +205,10 @@
   color: var(--jk-mfont-color);
 }
 
+.any-way-stat {
+  text-align: center;
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
