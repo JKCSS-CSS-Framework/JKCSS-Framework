@@ -23,7 +23,7 @@
 
 .home-back {
   text-align: center;
-  height: 600px;
+  height: 100%;
   background-image: linear-gradient(40deg, var(--jk-purple), white);
 }
 

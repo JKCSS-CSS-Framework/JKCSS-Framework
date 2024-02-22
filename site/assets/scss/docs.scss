@@ -18,15 +18,11 @@
 }
 .home-back{
     text-align: center;
-    height: 600px;
+    height: 100%;
     background-image: linear-gradient(40deg, var(--jk-purple), white);
 }
 .home-back .quate{
     font-size: var(--normal-title);
     color: var(--jk-mfont-color);
     font-style: italic;
-}
-.npm-home{
-    border: 1px solid black;
-    width: 50%;
 }
