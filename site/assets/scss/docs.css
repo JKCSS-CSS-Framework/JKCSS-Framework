@@ -37,4 +37,6 @@
 
 .read-btn {
   background-color: var(--jk-purple);
+  margin-bottom: 20px;
+  padding: 15px 30px;
 }
