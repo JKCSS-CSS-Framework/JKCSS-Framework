@@ -215,6 +215,11 @@
   padding: 20px 15px;
 }
 
+.waynpm {
+  border: 1px solid rgb(207, 207, 207);
+  border-radius: 5px;
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
