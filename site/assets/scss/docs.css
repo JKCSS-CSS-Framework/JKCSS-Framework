@@ -81,3 +81,7 @@
 .any-way-stat {
   text-align: center;
 }
+
+.cover-border {
+  border: 1px solid gray;
+}
