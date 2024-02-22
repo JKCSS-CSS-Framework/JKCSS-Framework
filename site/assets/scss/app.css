@@ -148,6 +148,11 @@
   margin: var(--title-margin);
 }
 
+.home-back {
+  height: 600px;
+  background-image: linear-gradient(40deg, pink, blue);
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
