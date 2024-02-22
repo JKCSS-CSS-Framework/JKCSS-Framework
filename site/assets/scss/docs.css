@@ -46,7 +46,7 @@
   border-radius: 5px;
 }
 
-.read-btn {
+.read-btn, .read-docs {
   background-color: var(--jk-purple);
   margin-bottom: 20px;
   padding: 15px 30px;
@@ -57,7 +57,7 @@
   transition: 0.5s;
 }
 
-.read-btn:hover {
+.read-btn:hover, .read-docs:hover {
   background-color: var(--hover-color);
   cursor: pointer;
 }
