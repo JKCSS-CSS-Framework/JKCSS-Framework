@@ -170,6 +170,12 @@
   font-size: 20px;
   color: var(--jk-mfont-color);
   border-radius: 5px;
+  transition: 0.5s;
+}
+
+.read-btn:hover {
+  background-color: var(--hover-color);
+  cursor: pointer;
 }
 
 .site-container {
