@@ -61,3 +61,7 @@
   background-color: var(--hover-color);
   cursor: pointer;
 }
+
+.home-down {
+  margin-bottom: 20px;
+}

@@ -189,6 +189,10 @@
   cursor: pointer;
 }
 
+.home-down {
+  margin-bottom: 20px;
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
