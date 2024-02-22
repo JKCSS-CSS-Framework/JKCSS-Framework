@@ -68,4 +68,6 @@
 
 .home-down ul {
   list-style-type: none;
+  display: flex;
+  text-align: center;
 }
