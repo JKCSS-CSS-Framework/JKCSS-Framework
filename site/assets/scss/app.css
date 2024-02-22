@@ -149,6 +149,7 @@
 }
 
 .home-back {
+  text-align: center;
   height: 600px;
   background-image: linear-gradient(40deg, var(--jk-purple), white);
 }
