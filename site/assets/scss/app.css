@@ -164,7 +164,8 @@
 
 .npm-code {
   background-color: white;
-  padding: 20px 30px;
+  padding: 15px 30px;
+  display: inline;
 }
 
 .read-btn {
