@@ -38,7 +38,7 @@
 .npm-code {
   background-color: white;
   padding: 15px 30px;
-  display: inline;
+  display: inline-block;
 }
 
 .read-btn {
