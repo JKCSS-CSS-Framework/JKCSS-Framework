@@ -39,4 +39,8 @@
   background-color: var(--jk-purple);
   margin-bottom: 20px;
   padding: 15px 30px;
+  border: none;
+  font-size: 20px;
+  color: var(--jk-mfont-color);
+  border-radius: 5px;
 }
