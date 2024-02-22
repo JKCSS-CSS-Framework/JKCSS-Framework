@@ -234,6 +234,10 @@
   padding-left: 20px;
 }
 
+.side-title {
+  font-size: large;
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
