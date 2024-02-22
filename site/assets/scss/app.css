@@ -201,6 +201,8 @@
 
 .home-back li {
   padding: 0 10px;
+  text-decoration: none;
+  color: var(--jk-mfont-color);
 }
 
 .site-container {
