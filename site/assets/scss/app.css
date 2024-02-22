@@ -231,6 +231,7 @@
   background-color: #7f17c0;
   color: var(--jk-mfont-color);
   font-family: var(--jk-site-font);
+  padding-left: 20px;
 }
 
 .site-container {
