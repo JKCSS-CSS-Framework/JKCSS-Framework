@@ -193,6 +193,10 @@
   margin-bottom: 20px;
 }
 
+.home-down ul {
+  list-style-type: none;
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
