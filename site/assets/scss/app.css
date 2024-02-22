@@ -154,6 +154,10 @@
   background-image: linear-gradient(40deg, var(--jk-purple), white);
 }
 
+.home-back .quate {
+  font-size: var(--normal-title);
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
