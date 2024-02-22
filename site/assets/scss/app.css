@@ -199,7 +199,7 @@
   text-align: center;
 }
 
-.home-back li {
+.home-down li, .home-down li a {
   padding: 0 10px;
   text-decoration: none;
   color: var(--jk-mfont-color);
