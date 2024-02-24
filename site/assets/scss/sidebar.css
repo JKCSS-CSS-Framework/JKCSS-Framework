@@ -14,4 +14,10 @@
 
 .side-list {
   list-style-type: none;
+  padding-left: 20px;
+}
+
+.side-list li a {
+  color: var(--jk-mfont-color);
+  text-decoration: none;
 }

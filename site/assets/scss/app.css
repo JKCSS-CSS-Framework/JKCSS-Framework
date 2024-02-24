@@ -238,6 +238,16 @@
   font-size: 2rem;
 }
 
+.side-list {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+.side-list li a {
+  color: var(--jk-mfont-color);
+  text-decoration: none;
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
