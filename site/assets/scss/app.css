@@ -248,6 +248,10 @@
   text-decoration: none;
 }
 
+.frame-data {
+  width: 100%;
+}
+
 .site-container {
   padding: 0 15%;
   font-family: var(--title-font-family);
