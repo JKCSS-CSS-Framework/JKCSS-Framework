@@ -36,11 +36,11 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - in [jsdelivr](https://www.jsdelivr.com/package/npm/@jehankandy/jkcss)
 
-- On PHP: Successfully Tested
-
-- On Laraval: Testing...
-
-- On React: Testing...
+| Work on | Stuts |
+| --------- | ------- |
+| Vite | Testing.... |
+| React | Testing.... |
+| Laravel | Testing.... |
 
 # Projects
 
@@ -115,7 +115,12 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | justify-left | justify-content: left; |
 | justify-right | justify-content: right; |
 | justify-center | justify-content: center; |
-
+| m | margin: ; |
+| my | margin: value 0; |
+| mx | margin: 0 value; |
+| p | padding: ; |
+| py | padding: value 0; |
+| px | padding: 0 value; |
 
 
 # History
