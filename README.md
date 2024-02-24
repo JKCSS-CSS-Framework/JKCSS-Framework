@@ -137,6 +137,8 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.3.0  | 30 January 2024  | Fixing Bugs, Adding Multiple Modals  |
 | v4.4.0  | 7 February 2024  | Adding Styles for Images  |
 | v4.5.0  | 12 February 2024  | Adding Alignment for Images, Spacing in Framework  |
+| v5.0.0-beta1  | 22 February 2024  | Develop Framework Site  |
+| v5.0.0-beta2  | 24 February 2024  | Develop Framework Site  |
 
 # Releases
 
