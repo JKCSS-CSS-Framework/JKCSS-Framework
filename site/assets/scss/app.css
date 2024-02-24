@@ -74,7 +74,6 @@
 }
 
 .footerbar, .footerbar-docs {
-  margin-top: 100px;
   font-family: var(--title-font-family);
   background-color: var(--jk-purple);
   padding: 50px 0;
@@ -225,7 +224,7 @@
 }
 
 .side-bar {
-  height: auto;
+  height: 100vh;
   width: 100%;
   padding: 40px 0 0 0;
   background-color: #7f17c0;
@@ -259,7 +258,7 @@
 }
 
 .main-content {
-  margin-top: 50px;
+  margin: 50px 0;
   font-family: var(--title-font-family);
 }
 
