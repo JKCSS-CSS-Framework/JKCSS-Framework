@@ -36,7 +36,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 - in [jsdelivr](https://www.jsdelivr.com/package/npm/@jehankandy/jkcss)
 
-| Work on | Stuts |
+| Work on | Status |
 | --------- | ------- |
 | Vite | Testing.... |
 | React | Testing.... |
