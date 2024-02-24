@@ -107,6 +107,15 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | jk-img md | image Medium |
 | jk-img lg | image large |
 | jk-img rounded-2 to rounded-100 | image Border radious 2px to 100px |
+| justify-between | justify-content: between; |
+| justify-end | justify-content: end; |
+| justify-start | justify-content: start; |
+| justify-even | justify-content: even; |
+| justify-around | justify-content: around; |
+| justify-left | justify-content: left; |
+| justify-right | justify-content: right; |
+| justify-center | justify-content: center; |
+
 
 
 # History
