@@ -114,5 +114,6 @@
     font-size: 3rem;
 }
 .btn-fw{
-    @extend .read-btn
+    @extend .read-btn;
+    margin: 10px 0;
 }
