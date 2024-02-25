@@ -241,6 +241,10 @@
   font-size: 20px;
 }
 
+.vite-guide {
+  margin: 50px 0;
+}
+
 .vite-guide .top {
   text-align: center;
 }
