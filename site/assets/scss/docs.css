@@ -122,3 +122,7 @@
 .vite-guide .top {
   text-align: center;
 }
+
+.vite-guide .body {
+  margin: 35px 0;
+}
