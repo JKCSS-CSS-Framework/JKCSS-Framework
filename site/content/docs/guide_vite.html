@@ -107,7 +107,7 @@
                     <p style="padding: 10px 0;">Now copy the Following content and past it in the <span class="file-view">vite.config.js</span></p>
                     
                     <div class="code-back">
-                        <span style="color: blueviolet;">import </span><span class="lblue-text">{ <span class="blue-text">resolve</span> } </span><span class="red-text">'path'</span><br><br>
+                        <span style="color: blueviolet;">import </span><span class="lblue-text">{ <span class="blue-text">resolve</span> } from </span><span class="red-text">'path'</span><br><br>
                         
                         <span style="color: blueviolet;">export default <span style="color: blueviolet;">{</span></span><br>
                         &nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">root: <span class="lblue-text">resolve</span><span style="color: blueviolet;">( <span class="blue-text">__dirname, </span><span class="red-text">'src'</span> )</span>, <br>
@@ -135,6 +135,7 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="blue-text">&lt;meta <span class="lblue-text">http-equiv=<span class="red-text">"X-UA-Compatible" </span>content=<span class="red-text">"IE=edge"</span></span>&gt;</span><br>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="blue-text">&lt;meta <span class="lblue-text">name=<span class="red-text">"viewport"</span> content=</span><span class="red-text">"width=device-width, initial-scale=1.0"</span>&gt;</span><br>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="blue-text">&lt;title&gt;<span class="normal-code">Vite + JKCSS</span>&lt;/title&gt;</span><br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="blue-text">&lt;script <span class="lblue-text">type=</span> <span class="red-text">"module"</span> <span class="lblue-text">src=<span class="red-text">"./js/main.js"</span></span>&gt;&lt;/script&gt;</span><br> 
                     <span class="blue-text">&lt;/head&gt;</span><br>
                     <span class="blue-text">&lt;body&gt;</span><br>
                     <br>
@@ -186,10 +187,10 @@
 
                 <div class="code-back">
                     <span style="color: gray;">// Import custom CSS file (src/scss/style.scss)</span><br><br>
-                    <span style="color: blueviolet;">import </span><span class="red-text">"../scss/styles.scss"</span>;
+                    <span style="color: blueviolet;">import </span><span class="red-text">"../scss/style.scss"</span>;
                     <br><br><br>
                     <span style="color: gray;">// Import JKCSS JS </span><br><br>
-                    <span style="color: blueviolet;">import <span class="blue-text">*</span>as <span class="blue-text">jkcss</span> </span><span class="red-text">"../../node_modules/@jehankandy/jkcss/js/jkcss.min"</span>;
+                    <span style="color: blueviolet;">import <span class="blue-text">*</span> as <span class="blue-text">jkcss</span> from </span><span class="red-text">"../../node_modules/@jehankandy/jkcss/js/jkcss.min"</span>;
 
                 </div>
 
@@ -200,7 +201,7 @@
                 <p>This is the end of the setups </p>
                 <p>Lastly you have to run the vite project using following command</p>
                 
-                <div class="code-back">
+                <div class="code-back" style="margin: 20px 0;">
                     <span class="blue-text">npm</span> start
                 </div>
 
