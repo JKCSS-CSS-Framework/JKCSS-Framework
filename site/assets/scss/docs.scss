@@ -113,3 +113,6 @@
     text-align: center;
     font-size: 3rem;
 }
+.btn-fw{
+    @extend .read-btn
+}
