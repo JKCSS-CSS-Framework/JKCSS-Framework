@@ -153,6 +153,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v4.5.0  | 12 February 2024  | Adding Alignment for Images, Spacing in Framework  |
 | v5.0.0-beta1  | 22 February 2024  | Develop Framework Site  |
 | v5.0.0-beta2  | 24 February 2024  | Develop Framework Site  |
+| v5.0.0  | 25 February 2024  | Adding First work on Framwork  |
 
 # Releases
 
