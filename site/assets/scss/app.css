@@ -231,6 +231,11 @@
   text-align: center;
 }
 
+.fw-logo-img {
+  width: 100px;
+  height: auto;
+}
+
 .side-bar {
   height: 100vh;
   width: 100%;
