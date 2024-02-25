@@ -157,7 +157,15 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
 # Releases
 
-## Version - v5.0.0-beta2 - 24 February 2024 Latest
+## Version - v5.0.0 - 24 February 2024 Latest
+
+- No for NPM Release
+- Improve Base Interfaces
+- Develop site Interface
+- adding first work on Framework (Vite.js)
+- 5th Major Release : works on Vite.js
+
+## Version - v5.0.0-beta2 - 24 February 2024 
 
 - No for NPM Release
 - Improve Base Interfaces
