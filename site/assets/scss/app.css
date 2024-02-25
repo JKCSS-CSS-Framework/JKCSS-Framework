@@ -241,6 +241,10 @@
   font-size: 20px;
 }
 
+.vite-guide .top {
+  text-align: center;
+}
+
 .side-bar {
   height: 100vh;
   width: 100%;
