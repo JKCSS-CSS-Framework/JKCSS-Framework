@@ -100,3 +100,7 @@
 .frame-guide {
   margin: 60px 0;
 }
+
+.frame-guide .title {
+  text-align: center;
+}
