@@ -70,54 +70,58 @@
                 </div>
                 <hr style="width: 50%;">
             </section>
-            <b><p style="padding: 40px 0;">Now you have to make some folders and files on your project</p></b>
-            <h1 class="jk-display-6" style="margin: 20px 0;">Project Folder structure</h1>
-            <div style="padding: 15px 20px">
-                project-vite/ <br>
-                |-- src/ <br>
-                |-- |-- js/ <br>
-                |-- |-- |-- script.js <br>
-                |-- |-- scss/ <br>
-                |-- |-- |-- style.scss <br>
-                |-- |-- index.html <br>
-                |-- package-lock.json <br>
-                |-- package.json <br>
-                |-- vite.config.js <br>
-
-                <br><br>
-
-                for more understanding
-
-                <ol style="padding: 20px 25px;">
-                    <li style="padding: 10px 0;">create src folder in the project folder</li>
-                    <li style="padding: 10px 0;">create 2 folders (js and scss) <span class="file-view">src/js</span> and <span class="file-view">src/scss</span> inside the src folder</li> 
-                    <li style="padding: 10px 0;">Create .js file called <span class="file-view">script.js</span> inside the js <span class="file-view">src/js/script.js</span></li>
-                    <li style="padding: 10px 0;">Create .scss file called <span class="file-view">style.scss</span> inside the scss <span class="file-view">src/scss/style.scss</span></li>
-                    <li style="padding: 10px 0;">Create <span class="file-view">index.html</span> inside the src <span class="file-view">src/index.html</span></li>
-                    <li style="padding: 10px 0;">Create <span class="file-view">vite.config.js</span> file inside the root folder (project folder)</li>
-                </ol>
-            </div>
-            
-            <h1 class="jk-display-6" style="margin: 20px 0;">Configure the Vite for Project</h1>
-            <div style="padding: 15px 20px">
-                <p>In the step you have to Configure the vite for the vite + jkcss project</p>
-                <p style="padding: 10px 0;">Now copy the Following content and past it in the <span class="file-view">vite.config.js</span></p>
-            
-                <div class="code-back">
-                    <span style="color: blueviolet;">import </span><span class="lblue-text">{ <span class="blue-text">resolve</span> } </span><span class="red-text">'path'</span><br><br>
-                    
-                    <span style="color: blueviolet;">export default <span style="color: blueviolet;">{</span></span><br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">root: <span class="lblue-text">resolve</span><span style="color: blueviolet;">( <span class="blue-text">__dirname, </span><span class="red-text">'src'</span> )</span>, <br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">build:</span> <span style="color: blueviolet;">{</span> <br>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">outDir:</span> <span class="red-text">'../output'</span><br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: blueviolet;">}</span>, <br>
-                
-                    &nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">server:</span> <span style="color: blueviolet;"> {</span> <br>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">port: <span class="lblue-text">8080</span></span><br>
-                    &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: blueviolet;">}</span> <br>
-                    <span style="color: blueviolet;">}</span> <br>
+            <section id="folder-s">
+                <b><p style="padding: 40px 0;">Now you have to make some folders and files on your project</p></b>
+                <h1 class="jk-display-6" style="margin: 20px 0;">Project Folder structure</h1>
+                <div style="padding: 15px 20px">
+                    project-vite/ <br>
+                    |-- src/ <br>
+                    |-- |-- js/ <br>
+                    |-- |-- |-- script.js <br>
+                    |-- |-- scss/ <br>
+                    |-- |-- |-- style.scss <br>
+                    |-- |-- index.html <br>
+                    |-- package-lock.json <br>
+                    |-- package.json <br>
+                    |-- vite.config.js <br>
+    
+                    <br><br>
+    
+                    for more understanding
+    
+                    <ol style="padding: 20px 25px;">
+                        <li style="padding: 10px 0;">create src folder in the project folder</li>
+                        <li style="padding: 10px 0;">create 2 folders (js and scss) <span class="file-view">src/js</span> and <span class="file-view">src/scss</span> inside the src folder</li> 
+                        <li style="padding: 10px 0;">Create .js file called <span class="file-view">script.js</span> inside the js <span class="file-view">src/js/script.js</span></li>
+                        <li style="padding: 10px 0;">Create .scss file called <span class="file-view">style.scss</span> inside the scss <span class="file-view">src/scss/style.scss</span></li>
+                        <li style="padding: 10px 0;">Create <span class="file-view">index.html</span> inside the src <span class="file-view">src/index.html</span></li>
+                        <li style="padding: 10px 0;">Create <span class="file-view">vite.config.js</span> file inside the root folder (project folder)</li>
+                    </ol>
                 </div>
-            </div>
+            </section>
+            
+            <section id="vite-config">
+                <h1 class="jk-display-6" style="margin: 20px 0;">Configure the Vite for Project</h1>
+                <div style="padding: 15px 20px">
+                    <p>In the step you have to Configure the vite for the vite + jkcss project</p>
+                    <p style="padding: 10px 0;">Now copy the Following content and past it in the <span class="file-view">vite.config.js</span></p>
+                
+                    <div class="code-back">
+                        <span style="color: blueviolet;">import </span><span class="lblue-text">{ <span class="blue-text">resolve</span> } </span><span class="red-text">'path'</span><br><br>
+                        
+                        <span style="color: blueviolet;">export default <span style="color: blueviolet;">{</span></span><br>
+                        &nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">root: <span class="lblue-text">resolve</span><span style="color: blueviolet;">( <span class="blue-text">__dirname, </span><span class="red-text">'src'</span> )</span>, <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">build:</span> <span style="color: blueviolet;">{</span> <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">outDir:</span> <span class="red-text">'../output'</span><br>
+                        &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: blueviolet;">}</span>, <br>
+                    
+                        &nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">server:</span> <span style="color: blueviolet;"> {</span> <br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="blue-text">port: <span class="lblue-text">8080</span></span><br>
+                        &nbsp;&nbsp;&nbsp;&nbsp; <span style="color: blueviolet;">}</span> <br>
+                        <span style="color: blueviolet;">}</span> <br>
+                    </div>
+                </div>
+            </section>
 
         </div>
     </div>
