@@ -130,3 +130,8 @@
 .frame-guide-home {
   margin: 50px 0;
 }
+
+.fw-title {
+  text-align: center;
+  font-size: 3rem;
+}

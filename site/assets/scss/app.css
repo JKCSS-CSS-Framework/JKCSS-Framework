@@ -257,6 +257,11 @@
   margin: 50px 0;
 }
 
+.fw-title {
+  text-align: center;
+  font-size: 3rem;
+}
+
 .side-bar {
   height: 100vh;
   width: 100%;
