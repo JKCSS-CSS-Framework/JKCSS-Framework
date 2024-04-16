@@ -6,7 +6,7 @@
 # About JKCSS
 
 - Location: Sri Lanka
-- CSS Framework Developed in Sri Lanka 
+- First (1st) CSS Framework Developed in Sri Lanka 
 
 # Introduction
 
