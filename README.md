@@ -13,6 +13,8 @@
 
 All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 
+- Utility-First CSS Framework 
+
 - The JKCSS is a one of CSS Frameworks. and JKCSS underdevelopment. Any person who likes Web development and design feel free to use this Framework
 
 - Current Release : [v6.0.0 - 05 May 2024 Latest](https://github.com/JKCSS-CSS-Framework/JKCSS-Framework/releases/tag/v6.0.0)
