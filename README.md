@@ -154,11 +154,20 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | v5.0.0-beta1  | 22 February 2024  | Develop Framework Site  |
 | v5.0.0-beta2  | 24 February 2024  | Develop Framework Site  |
 | v5.0.0  | 25 February 2024  | Adding First work on Framwork  |
-| v5.1.0  | 05 March 2024  | Updating Button , Adding Button Groups  |
+| v5.1.0  | 08 March 2024  | Updating Button , Adding Button Groups  |
+| v6.0.0  | 05 May 2024  | 6th Major Release : Utility-First Approach  |
 
 # Releases
 
-## Version - v5.1.0 - 8 March 2024 Latest
+
+## Version - v6.0.0 - 85 May 2024 Latest
+
+- Improve Base Interfaces
+- Develop site Interface
+- 6th Major Release : Utility-First Approach 
+
+
+## Version - v5.1.0 - 8 March 2024 
 
 - Improve Base Interfaces
 - Develop site Interface
