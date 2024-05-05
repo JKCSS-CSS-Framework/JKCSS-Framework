@@ -42,7 +42,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 | Work on | Status |
 | --------- | ------- |
 | Vite | Successful |
-| React | Testing.... |
+| React | Successful |
 | Laravel | Testing.... |
 
 # Projects
