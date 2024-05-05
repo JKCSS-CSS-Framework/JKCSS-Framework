@@ -1,12 +1,13 @@
 <h1 align="center"> JKCSS-Framework </h1>
 <p align="center"><img src="https://avatars.githubusercontent.com/u/111488170?s=200&v=4"></p>
 
-<p align="center">The JKCSS is a CSS Framework</p>
+<p align="center">The First Sri Lankan Utility-First CSS Framework</p>
 
 # About JKCSS
 
 - Location: Sri Lanka
 - The First (1st) CSS Framework Developed in Sri Lanka 
+- The First Sri Lankan Utility-First CSS Framework 
 
 # Introduction
 
