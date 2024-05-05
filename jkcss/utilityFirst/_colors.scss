@@ -1,0 +1,31 @@
+// genarate the all colors
+@each $key, $value in $colors {
+    .text-#{$key} {
+        color: $value;
+    }
+    .bg-#{$key} {
+        background-color:  $value;
+    }
+    // light color
+
+    @for $i from 1 through 9 {
+        .text-#{$key}-light-#{$i}{ 
+            color: mix(white, $value, $i * 10);
+        }
+        .bg-#{$key}-light-#{$i} {
+            background-color: mix(white, $value, $i * 10);
+        }
+    }
+
+    // dark colors
+
+    @for $i from 1 through 9 {
+        .text-#{$key}-dark-#{$i}{ 
+            color: mix(black, $value, $i * 10);
+        }
+        .bg-#{$key}-dark-#{$i} {
+            background-color: mix(black, $value, $i * 10);
+        }
+    }
+}
+
