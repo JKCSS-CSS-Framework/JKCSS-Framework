@@ -396,8 +396,9 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
  
  <b>JehanKandy (Founder/Developer)</b>
  
-  - [JehanKandy](https://github.com/JehanKandy)
-
+  - [JehanKandy](https://github.com/JehanKandy) - JehanKandy
+  - [Vinura Pathirana](https://github.com/VinuraPathirana) - Vinura Pathirana
+    - [JehanKandy](https://github.com/JehanKandy) - JehanKandy
 
 
 
