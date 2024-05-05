@@ -163,7 +163,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
 # Releases
 
 
-## Version - v6.0.0 - 85 May 2024 Latest
+## Version - v6.0.0 - 05 May 2024 Latest
 
 - Improve Base Interfaces
 - Develop site Interface
