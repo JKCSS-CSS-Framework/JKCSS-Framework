@@ -398,7 +398,7 @@ All previous releases in [JKCSS](https://github.com/JKCSS/JKCSS-Framework)
  
   - [JehanKandy](https://github.com/JehanKandy) - JehanKandy
   - [Vinura Pathirana](https://github.com/VinuraPathirana) - Vinura Pathirana
-    - [JehanKandy](https://github.com/JehanKandy) - JehanKandy
+  - [Anupa Gamage](https://github.com/Anupa1998) - Anupa Gamage
 
 
 
